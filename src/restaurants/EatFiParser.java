@@ -23,17 +23,16 @@ public class EatFiParser {
     private static final int tries = 5;
 
     public static void main(String[] args) throws IOException {
-
         ArrayList<Restaurant> restaurantList = new EatFiParser().getAllRestaurants();
 
-        String filename = "restaurants.txt";
+        String filename = "eatFiRestaurants.txt";
         PrintWriter pw = new PrintWriter(new File(filename));
         restaurantList.stream().forEach((restaurant) -> {
             pw.println(restaurant);
         });
         pw.close();
 
-        String serFilename = "restaurants.ser";
+        String serFilename = "eatFiRestaurants.ser";
         new Serialiser().serialize(restaurantList, serFilename);
 
     }

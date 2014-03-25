@@ -1,0 +1,535 @@
+Restaurant: 5th Street Bar & Cafe, address: Viides linja 7, HELSINKI
+Restaurant: A21 Cocktail Lounge, address: Annankatu 21, HELSINKI
+Restaurant: Aapelin Baari, address: Ostostie 4, HELSINKI
+Restaurant: Aatu Bar, address: Kalevankatu 46, HELSINKI
+Restaurant: Abin Baari Oy, address: Kamppiaistentie 12, HELSINKI
+Restaurant: Adams Club & Restaurant, address: Erottajankatu 15-17, HELSINKI
+Restaurant: Ahjo Bar and Night Club, address: Bulevardi 2-4, HELSINKI
+Restaurant: Alcatraz Club, address: Eerikinkatu 3, HELSINKI
+Restaurant: Ale-Pub Kaivopiha, address: Mannerheimintie 5, HELSINKI
+Restaurant: ALONSO OY, address: Testikatu 100, HELSINKI
+Restaurant: American Bar, address: Kalevankatu 5, HELSINKI
+Restaurant: Amsterdam, address: Itämerenkuja 1 C, HELSINKI
+Restaurant: Angleterre, address: Fredrikinkatu 47, HELSINKI
+Restaurant: Anniskeluravintola Roska, address: Eerikinkatu 11, HELSINKI
+Restaurant: Apollo Café, address: Mannerheimintie 16, HELSINKI
+Restaurant: Apollo Live Club, address: Mannerheimintie 16, HELSINKI
+Restaurant: Apollo live club, address: Iso Puistotie 1, HELSINKI
+Restaurant: Arkadian Kebab, address: Tattarisuontie 1, HELSINKI
+Restaurant: Aschan Coffee & Deli Helsinki, Kamppi, address: Urho Kekkosen katu 1, HELSINKI
+Restaurant: Aschan Coffee & Deli Helsinki, Sanomatalo, address: Alvar Aallon kuja 2, HELSINKI
+Restaurant: Aschan Coffee & Deli Helsinki, Vallila, address: Teollisuuskatu 21, HELSINKI
+Restaurant: Ateljee Bar, address: Kalevankatu 5, HELSINKI
+Restaurant: Aussie Bar, address: Salomonkatu 5, HELSINKI
+Restaurant: Aussie Club Helsinki, address: Vilhonkatu 6, HELSINKI
+Restaurant: Baarikärpänen, address: Mikonkatu 15, HELSINKI
+Restaurant: Baguette & Co., address: Helsingin rautatieasema, HELSINKI
+Restaurant: Baldoria Rixi Baari Oy, address: Isokaari 24, HELSINKI
+Restaurant: Bar & Cafe Mister X, address: Keinulaudankuja 4 Lh 4, HELSINKI
+Restaurant: Bar & Cafe Molotow, address: Vaasankatu 29, HELSINKI
+Restaurant: Bar & Pool Trickshot, address: Näkinkuja 1, HELSINKI
+Restaurant: Bar 21, address: Helsinginkatu 21, HELSINKI
+Restaurant: Bar 52, address: Heikkiläntie 2, HELSINKI
+Restaurant: Bar 62, address: Metsäpurontie 16, HELSINKI
+Restaurant: Bar 71, address: Meripihkatie 1, HELSINKI
+Restaurant: Bar 9, address: Uudenmaankatu 9, HELSINKI
+Restaurant: Bar All In, address: Mikonkatu 19, HELSINKI
+Restaurant: Bar Baron, address: Eerikinkatu 17, HELSINKI
+Restaurant: Bar Bhangra, address: Runeberginkatu 28, HELSINKI
+Restaurant: Bar Bronco, address: Hämeentie 23, HELSINKI
+Restaurant: Bar Bäkkäri & Ravintola Komppi, address: Pohjoinen Rautatiekatu 21, HELSINKI
+Restaurant: Bar Cafe Flemari, address: Fleminginkatu 21 A, HELSINKI
+Restaurant: Bar Cafe Haagan Helmi, address: Näyttelijäntie 14 C, HELSINKI
+Restaurant: Bar Code, address: Mannerheimintie 50, HELSINKI
+Restaurant: Bar Exodus, address: Hämeentie 81-83, HELSINKI
+Restaurant: Bar Fellows, address: Mannerheimintie 64, HELSINKI
+Restaurant: Bar Flagon, address: Vilhonvuorenkatu 5, HELSINKI
+Restaurant: Bar High Level, address: Mannerheimintie 130, HELSINKI
+Restaurant: Bar Idäntähti, address: Asiakkaankatu 3, HELSINKI
+Restaurant: Bar KallioHovi, address: Vaasankatu 17, HELSINKI
+Restaurant: Bar Kissa, address: Puustellinrinne 3, HELSINKI
+Restaurant: Bar Lab, address: Alppikatu 17, HELSINKI
+Restaurant: Bar Llamas, address: Iso-Roobertinkatu 14, HELSINKI
+Restaurant: Bar Loose, address: Annankatu 21, HELSINKI
+Restaurant: Bar Loosister, address: Hämeentie 50, HELSINKI
+Restaurant: Bar Mendocino, address: Eerikinkatu 28, HELSINKI
+Restaurant: Bar Mucava, address: Hämeentie 30, HELSINKI
+Restaurant: Bar Musta Kissa, address: Toinen linja 15, HELSINKI
+Restaurant: Bar Teos, address: Runeberginkatu 61, HELSINKI
+Restaurant: Bar U2 Pihlis, address: Meripihkatie 1, HELSINKI
+Restaurant: Bar We Got Beef, address: Iso Roobertinkatu 21, HELSINKI
+Restaurant: Bar Åke Night-Club, address: Kallvikintie 55, HELSINKI
+Restaurant: BarFanny, address: Bulevardi 40, HELSINKI
+Restaurant: Beauti 1, address: Kaarlenkatu 3-5, HELSINKI
+Restaurant: Beaver Bar/Majava Baari, address: Porthaninkatu 9, HELSINKI
+Restaurant: Belge, address: Kluuvikatu 5, HELSINKI
+Restaurant: Bierhuis Rotterdam, address: Tennispalatsinaukio 4, HELSINKI
+Restaurant: Big Time Bar, address: Mikonkatu 8, HELSINKI
+Restaurant: Biljardi Metropool, address: Toinen linja 3, HELSINKI
+Restaurant: Biljardisali Ritz-Biljardi, address: Eteläinen Hesperiankatu 22, HELSINKI
+Restaurant: Bistro Maria, address: Munkkiniemen puistotie 19, HELSINKI
+Restaurant: Black Door Olutravintola, address: Iso Roobertinkatu 1, HELSINKI
+Restaurant: Blue Peter, address: Vattuniemen Puistotie 1, HELSINKI
+Restaurant: Brasserie Kämp, address: Pohjoisesplanadi 29, HELSINKI
+Restaurant: Bravuria Helsinki Salomonkatu, address: Salomonkatu 1, HELSINKI
+Restaurant: Brigantiini Mary Ann, address: Lahdensivunpolku 12, HELSINKI
+Restaurant: Bryggeri Helsinki, address: Sofiankatu 2, HELSINKI
+Restaurant: Cafe Bar Tauko, address: Aleksanterinkatu 11, HELSINKI
+Restaurant: Cafe Cavalier, address: Malminrinne 2-4, HELSINKI
+Restaurant: Cafe II-Linja 23, address: Toinen linja 23, HELSINKI
+Restaurant: Cafe Kontula, address: Keinulaudankuja 4 D, HELSINKI
+Restaurant: Cafe Lemon Bar, address: Kauppalantie 22, HELSINKI
+Restaurant: Cafe London Pub, address: Keinulaudankuja 4 D, HELSINKI
+Restaurant: Cafe Mascot, address: Neljäs linja 2, HELSINKI
+Restaurant: Cafe Otto, address: Harustie 2, HELSINKI
+Restaurant: Cafe Talo, address: Hämeentie 2, HELSINKI
+Restaurant: Cafe Vanha, address: Mannerheimintie 3, HELSINKI
+Restaurant: Cafè Ekberg, address: Bulevardi 9, HELSINKI
+Restaurant: Café Jugend, address: Pohjoisesplanadi 19, HELSINKI
+Restaurant: Café Kiasma, address: Mannerheiminaukio 1, HELSINKI
+Restaurant: Café Lasipalatsi, address: Mannerheimintie 22-24, HELSINKI
+Restaurant: Café Tin Tin Tango, address: Töölöntorinkatu 7, HELSINKI
+Restaurant: Café Ursula, Kaivopuisto, address: Ehrenströmintie 3, HELSINKI
+Restaurant: Cantina West, address: Kasarmikatu 23, HELSINKI
+Restaurant: Casa Largo, address: Asema-aukio 2, HELSINKI
+Restaurant: Casino Helsinki Royal Ravintolat, address: Mikonkatu 19, HELSINKI
+Restaurant: Chico's Kallio, address: Porthaninkatu 4, HELSINKI
+Restaurant: Ciao! Caffé & Winebar, address: Aleksanterinkatu 28 Kiseleffin talo, HELSINKI
+Restaurant: Club Liberté, address: Kolmas linja 34, HELSINKI
+Restaurant: Club Vatican, address: Simonkatu 6, HELSINKI
+Restaurant: Coffee House Kylä-ravintolat Kaari, address: Kantelettarentie 1, HELSINKI
+Restaurant: Corona Baari, address: Eerikinkatu 11, HELSINKI
+Restaurant: Cuba cafe & Party room, address: Erottajankatu 4, HELSINKI
+Restaurant: Cumulus Oy Hallinto, address: Hämeentie 19, HELSINKI
+Restaurant: C´est La Vie Bar Cafe, address: Tehtaankatu 38, HELSINKI
+Restaurant: Dubliner, address: Mannerheimintie 5, HELSINKI
+Restaurant: Dubrovnik Lounge & Lobby, address: Eerikinkatu 11, HELSINKI
+Restaurant: Elmo Sports & Grill, address: Salomonkatu 17 B, HELSINKI
+Restaurant: Erottaja Bar karaokebaari, address: Erottajankatu 15-17, HELSINKI
+Restaurant: Fabian, address: Pohjoinen Makasiinikatu 6, HELSINKI
+Restaurant: Felt Bay Pub, address: Tilkanvierto 7, HELSINKI
+Restaurant: Fino-Bar & Grill, address: Malmin kauppatie 18, HELSINKI
+Restaurant: Food Lab, address: Keskuskatu 6, HELSINKI
+Restaurant: Funky Kitchen Linnanmäki, address: Tivolikuja 1, HELSINKI
+Restaurant: Golden Classics Car Show & Cafe, address: Tyynenmerenkatu 6, HELSINKI
+Restaurant: Hakis Pub Gazal, address: Sörnäisten rantatie 10, HELSINKI
+Restaurant: Hard Rock Cafe Helsinki, address: Aleksanterinkatu 21, HELSINKI
+Restaurant: Hard Rock House, address: Roihuvuorentie 1, HELSINKI
+Restaurant: Harry's Bar, address: Vuorimiehenkatu 23 b A 11, HELSINKI
+Restaurant: Hartwall Areena Ravintolat, address: Areenankuja 1, HELSINKI
+Restaurant: Havis, address: Eteläranta 16, HELSINKI
+Restaurant: Helsinki Underground Bar, address: Mikonkatu 13, HELSINKI
+Restaurant: Hemingway's Aikatalo Mikonkatu Helsinki, address: Mikonkatu 8, HELSINKI
+Restaurant: Hemingway's Hietalahti Helsinki, address: Hietalahdenranta 11, HELSINKI
+Restaurant: Hemingway's Itäkeskus Helsinki, address: Turunlinnantie 6, HELSINKI
+Restaurant: Henry's Pub, address: Simonkatu 3, HELSINKI
+Restaurant: Herkku Haarukka, address: Hämeentie 150, HELSINKI
+Restaurant: Hermannin Pizza & Pub, address: Vellamonkatu 10, HELSINKI
+Restaurant: Himabaari, address: Kontulankaari 1 B, HELSINKI
+Restaurant: Hiutale Bar, address: Annankatu 4, HELSINKI
+Restaurant: Hotelli Arkadia, address: Tattarisuontie 1, HELSINKI
+Restaurant: Inter Pizza Cafe Helsinki, address: Hämeentie 81-83, HELSINKI
+Restaurant: Issukka Jarkko Tmi, address: Väinämöisenkatu 31 B 37, HELSINKI
+Restaurant: Itäkeskuksen Uimahallin Kahvila, address: Olavinlinnantie 6, HELSINKI
+Restaurant: Jakomäen Baari Oy, address: Louhikkotie 20 c B 135, HELSINKI
+Restaurant: Janoinen Lohi, address: Linnankoskenkatu 12, HELSINKI
+Restaurant: JoGo Frozen Yogurt Bar, address: Fredrikinkatu 65, HELSINKI
+Restaurant: Jone's Karaoke Bar, address: Kaisaniemenkatu 13, HELSINKI
+Restaurant: Jorkka & Eija Oy, address: Keskiyöntie 51 A 1, HELSINKI
+Restaurant: Kaarna baari & keittiö, address: Mannerheimintie 20, HELSINKI
+Restaurant: Kafe Moskova, address: Eerikinkatu 11, HELSINKI
+Restaurant: Kahvila Papukaija Peacock-teatteri, address: Tivolikuja 1, HELSINKI
+Restaurant: Kahvila Piper, address: Suomenlinna, HELSINKI
+Restaurant: Kaisla, address: Vilhonkatu 4, HELSINKI
+Restaurant: Kallion B12 Cafe & Bar, address: Vaasankatu 12, HELSINKI
+Restaurant: Kallion Mestari, address: Kustaankatu 4, HELSINKI
+Restaurant: Kallion Pääkonttori, address: Helsinginkatu 11, HELSINKI
+Restaurant: Kallion Seurahuone, address: Fleminginkatu 6, HELSINKI
+Restaurant: Kampin Baari Oy, address: Urho Kekkosen katu 1, HELSINKI
+Restaurant: Kanava Bar, address: Kanavaranta 7, HELSINKI
+Restaurant: Kannel Pub, address: Klaneettitie 7, HELSINKI
+Restaurant: Kannel-Krouvi, address: Sitrakuja 4, HELSINKI
+Restaurant: Karaoke Bar Anna K, address: Annankatu 23, HELSINKI
+Restaurant: Karaoke Bar Pataässä, address: Snellmaninkatu 17, HELSINKI
+Restaurant: Karaoke Bar Restroom, address: Tehtaankatu 23 A, HELSINKI
+Restaurant: Karaoke Bar Yökyöpeli, address: Fabianinkatu 17, HELSINKI
+Restaurant: Karaoke Nightclub Club Swengi, address: Iso Roobertinkatu 10, HELSINKI
+Restaurant: Karaokemesta, address: Vanhaistentie 3 B, HELSINKI
+Restaurant: Kaski Bistro & Baari, address: Latokartanonkaari 23, HELSINKI
+Restaurant: Katajanokan Kasino, address: Laivastokatu 1, HELSINKI
+Restaurant: Kaunis Kampela, address: Lauttasaarentie 10, HELSINKI
+Restaurant: Keittiö & Baari Juuri, address: Korkeavuorenkatu 27, HELSINKI
+Restaurant: KGB-Club Karaoke & Disco, address: Hallituskatu 3, HELSINKI
+Restaurant: Kitty's Public House, address: Keskuskatu 6, HELSINKI
+Restaurant: Kivikko Cafe Bar, address: Kivikonkaari 39 C, HELSINKI
+Restaurant: Kivitorppa, address: Raumantie 1, HELSINKI
+Restaurant: Klubiravintola Väylä, address: Eteläreimarintie 9, HELSINKI
+Restaurant: Koko Jazz Club, address: Hämeentie 3, HELSINKI
+Restaurant: Kombo Winebar & Kitchen, address: Kulmavuorenkatu 4, HELSINKI
+Restaurant: Kontu Krouvi, address: Porttikuja 7, HELSINKI
+Restaurant: Korjaamon Baari, address: Töölönkatu 51 A-B, HELSINKI
+Restaurant: Korjaamon Kahvila, address: Töölönkatu 51 A-B, HELSINKI
+Restaurant: Kortteliravintola Lungi, address: Korkeavuorenkatu 2, HELSINKI
+Restaurant: Krulla Wiener Kaffeehaus, address: Lönnrotinkatu 13, HELSINKI
+Restaurant: Kuikka, address: Helsinginkatu 32, HELSINKI
+Restaurant: Kujis Pub, address: Lauttasaarentie 32, HELSINKI
+Restaurant: Kulmapotku, address: Roihuvuorentie 28, HELSINKI
+Restaurant: Kultapalmu, address: Vaasankatu 4, HELSINKI
+Restaurant: Kuparikulma Karaoke Bar, address: Kuparitie 1, HELSINKI
+Restaurant: Kuudes linja, address: Hämeentie 13, HELSINKI
+Restaurant: König, address: Aleksanterinkatu 46 C, HELSINKI
+Restaurant: König restaurant, address: Mikonkatu 4, HELSINKI
+Restaurant: Leijuva Lahna, address: Eerikinkatu 14, HELSINKI
+Restaurant: Leonardo Bar & Ristorante, address: Kaivokatu 6, HELSINKI
+Restaurant: Liberty or Death, address: Mäkelänkatu 2 C c/o Boutique Bars Oy, HELSINKI
+Restaurant: Los Cojones, address: Annankatu 15, HELSINKI
+Restaurant: M/S Marival II Laivaravintola, address: Hiekkajaalanranta, HELSINKI
+Restaurant: Maltainen Riekko, address: Aleksis Kiven Katu 56, HELSINKI
+Restaurant: Mamma Rosa, address: Runeberginkatu 55 A, HELSINKI
+Restaurant: Mann's Street, address: Mannerheimintie 12 A, HELSINKI
+Restaurant: Mardin Pub, address: Mäkelänkatu 15, HELSINKI
+Restaurant: Marski Bar & Restaurant, address: Mannerheimintie 10, HELSINKI
+Restaurant: Maya Bar & Grill, address: Mikonkatu 18, HELSINKI
+Restaurant: Mbar, address: Mannerheimintie 22-24, HELSINKI
+Restaurant: Milli Miglia, address: Kalevankatu 36, HELSINKI
+Restaurant: Minuuttibaari, address: Rautatieasema, HELSINKI
+Restaurant: Molly Malone's Irish Bar, address: Kaisaniemenkatu 1 C, HELSINKI
+Restaurant: Morrison's Grill & Green, address: Keskuskatu 7 Ateneuminkuja, HELSINKI
+Restaurant: My Way Bar, address: Mäkelänkatu 32, HELSINKI
+Restaurant: Mäkikupla Ravintola & Pub, address: Torkkelinkatu 2, HELSINKI
+Restaurant: Navy Jerry's Rum Bar, address: Hietaniemenkatu 2, HELSINKI
+Restaurant: Night People Oy, address: Iso Puistotie 1, HELSINKI
+Restaurant: Norsöline, address: Kalkkihiekantorin laivalaituri, HELSINKI
+Restaurant: O'Gelis Bar, address: Torivoudintie 1, HELSINKI
+Restaurant: Ohjelmaravintola Malmintori, address: Viljatie 4, HELSINKI
+Restaurant: Old Hat, address: Mannerheimintie 3, HELSINKI
+Restaurant: Olohuone bar, address: Yliskyläntie 3, HELSINKI
+Restaurant: Oluthuone William K., address: Kantelettarentie 1, HELSINKI
+Restaurant: Olutravintola Hertsikan Helmi, address: Hitsaajankatu 14, HELSINKI
+Restaurant: Olutravintola Jano, address: Mäkitorpantie 11, HELSINKI
+Restaurant: Olutravintola Marian Helmi, address: Snellmaninkatu 17, HELSINKI
+Restaurant: Olutravintola Nurkka, address: Ratavartijankatu 3, HELSINKI
+Restaurant: Olutravintola Oljenkorsi, address: Intiankatu 18, HELSINKI
+Restaurant: Olutravintola Pikkulintu, address: Klaavuntie 11, HELSINKI
+Restaurant: Olutravintola Solmu, address: Aurinkoranta 8, HELSINKI
+Restaurant: Olutravintola Vastarannan Kiiski, address: Runeberginkatu 26, HELSINKI
+Restaurant: Olympix bar & cafe, address: Mäntymäki 2, HELSINKI
+Restaurant: One Pint Pub, address: Santakatu 2, HELSINKI
+Restaurant: Ooster Olut- ja viinihuone, address: Helsingin rautatieasema, länsisiipi, HELSINKI
+Restaurant: Osakuntabaari, address: Urho Kekkosen katu 4-6 D, HELSINKI
+Restaurant: Panimoravintola Bruuveri, address: Fredrikinkatu 63 ab, HELSINKI
+Restaurant: Papa Albert Ristorante & Bar, address: Albertinkatu 30, HELSINKI
+Restaurant: Paris Pub, address: Keinulaudankuja 4, HELSINKI
+Restaurant: Parnell's Olympia, address: Läntinen Brahenkatu 2, HELSINKI
+Restaurant: Pickwick Kaivokatu, address: Kaivokatu 10, HELSINKI
+Restaurant: Pikkubaari, address: Huopalahdentie 13, HELSINKI
+Restaurant: Pivnice Hostina, address: Annankatu 27, HELSINKI
+Restaurant: Pivnice Hádanka, address: Mannerheimintie 104, HELSINKI
+Restaurant: Pivnice Milenka, address: Haapaniemenkatu 5, HELSINKI
+Restaurant: Pivnice Poseidon, address: Kruunuvuorenkatu 1, HELSINKI
+Restaurant: Pizzeria Foxy Bear, address: Kettutie 2, HELSINKI
+Restaurant: Porvoonkadun Baari, address: Porvoonkatu 19, HELSINKI
+Restaurant: Praha, address: Mannerheimintie 5, HELSINKI
+Restaurant: Pressa, address: Eteläinen Rautatiekatu 4, HELSINKI
+Restaurant: PRKL Club, address: Kaisaniemenkatu 4, HELSINKI
+Restaurant: Pub & Music club Tillikka, address: Latokartanontie 5, HELSINKI
+Restaurant: Pub 94, address: Ostostie 4, HELSINKI
+Restaurant: Pub 99, address: Mannerheimintie 58, HELSINKI
+Restaurant: Pub Aleksis K, address: Aleksis Kiven katu 14, HELSINKI
+Restaurant: Pub Cafe Notre Dame, address: Itämerenkatu 14, HELSINKI
+Restaurant: Pub Cheers, address: Mustalahdentie 4, HELSINKI
+Restaurant: Pub Fairytale, address: Helsinginkatu 7, HELSINKI
+Restaurant: Pub Fidel, address: Mannerheimintie 50, HELSINKI
+Restaurant: Pub Gaselli, address: Aleksanterinkatu 46, HELSINKI
+Restaurant: Pub Heinähattu, address: Vaasankatu 23, HELSINKI
+Restaurant: Pub Ikkuna, address: Salomonkatu 4, HELSINKI
+Restaurant: Pub Istuva Härkä, address: Eskolantie 1, HELSINKI
+Restaurant: Pub Itämeren Helmi, address: Itämerenkatu 12, HELSINKI
+Restaurant: Pub Jakkis, address: Huokotie 1, HELSINKI
+Restaurant: Pub Janoinen Puhveli, address: Teuvo Pakkalan tie 5, HELSINKI
+Restaurant: Pub Kasin Kulma, address: Sturenkatu 49, HELSINKI
+Restaurant: Pub Keskipiste, address: Näyttelijäntie 14, HELSINKI
+Restaurant: Pub Magneetti Vallila, address: Mäkelänkatu 20 B, HELSINKI
+Restaurant: Pub Maria, address: Päivöläntie 24, HELSINKI
+Restaurant: Pub Merikarhu, address: Ostostie 4, HELSINKI
+Restaurant: Pub Merimies, address: Merimiehenkatu 27, HELSINKI
+Restaurant: Pub Nellu, address: Ratapihantie 6, HELSINKI
+Restaurant: Pub Olut Pankki, address: Kastelholmantie 2, HELSINKI
+Restaurant: Pub Pete, address: Hietaniemenkatu 7, HELSINKI
+Restaurant: Pub Pizzeria Ulappasilta, address: Tyynylaavankuja 3 D, HELSINKI
+Restaurant: Pub Porthan, address: Porthaninkatu 10, HELSINKI
+Restaurant: Pub Pressapari, address: Wallininkatu 10, HELSINKI
+Restaurant: Pub Päätön Kana, address: Pohjolankatu 2, HELSINKI
+Restaurant: Pub Ravintola Taz, address: Aleksis Kiven katu 40, HELSINKI
+Restaurant: Pub Sirdie, address: Kolmas linja 21, HELSINKI
+Restaurant: Pub Vapaasatama, address: Merisotilaantori 1, HELSINKI
+Restaurant: Pub Wanha Kettu, address: Malminkatu 22, HELSINKI
+Restaurant: Pub Yy Kaa Koo, address: Leiviskäpolku 4, HELSINKI
+Restaurant: Public Corner Mikonkatu, address: Mikonkatu 15, HELSINKI
+Restaurant: Pulmu-baari, address: Fleminginkatu 13, HELSINKI
+Restaurant: Punavuoren Ahven, address: Punavuorenkatu 12, HELSINKI
+Restaurant: Puotin Krouvi, address: Kastelholmantie 2, HELSINKI
+Restaurant: Pure Bistro, address: Pohjoisesplanadi 9, HELSINKI
+Restaurant: Pääsky Pub, address: Pääskylänrinne 2, HELSINKI
+Restaurant: Päätypub, address: Kankaretie 11 A, HELSINKI
+Restaurant: Raffaello, address: Aleksanterinkatu 46, HELSINKI
+Restaurant: Ravintola A-Hana, address: Palokoukunkuja 4, HELSINKI
+Restaurant: Ravintola Alakerta, address: Telakkakatu 8, HELSINKI
+Restaurant: Ravintola Amigo, address: Tehtaankatu 12, HELSINKI
+Restaurant: Ravintola Arizona, address: Castréninkatu 7, HELSINKI
+Restaurant: Ravintola Baker's, address: Mannerheimintie 12, HELSINKI
+Restaurant: Ravintola Bar Socis, address: Kaivokatu 12, HELSINKI
+Restaurant: Ravintola Barts, address: Pakilantie 11, HELSINKI
+Restaurant: Ravintola Basti's, address: Alvar Aallon katu 3, HELSINKI
+Restaurant: Ravintola Beefy Queen Jambo, address: Pieni Roobertinkatu 13, HELSINKI
+Restaurant: Ravintola Black Bird, address: Turunlinnantie 8, HELSINKI
+Restaurant: Ravintola Blue Corner, address: Svinhufvudintie 1, HELSINKI
+Restaurant: Ravintola Boothill, address: Lönnrotinkatu 25, HELSINKI
+Restaurant: Ravintola Britannia, address: Vanhaistentie 1, HELSINKI
+Restaurant: Ravintola Bullman, address: Fleminginkatu 21 B, HELSINKI
+Restaurant: Ravintola Bumerang, address: Jakomäentie 24, HELSINKI
+Restaurant: Ravintola Café Carusel, address: Merisatamanranta 10, HELSINKI
+Restaurant: Ravintola Carelia, address: Mannerheimintie 56, HELSINKI
+Restaurant: Ravintola Casa Mare, address: Gyldenintie 6, HELSINKI
+Restaurant: Ravintola Cella, address: Fleminginkatu 15, HELSINKI
+Restaurant: Ravintola Cin Cin, address: Pekankatu 5, HELSINKI
+Restaurant: Ravintola Danphe, address: Sturenkatu 32-34, HELSINKI
+Restaurant: Ravintola Dogtori, address: Sompiontori 1, HELSINKI
+Restaurant: Ravintola Domino, address: Ajurinaukio 5, HELSINKI
+Restaurant: Ravintola East-West, address: Opastinsilta 6, HELSINKI
+Restaurant: Ravintola Eerikinkulma, address: Eerikinkatu 28, HELSINKI
+Restaurant: Ravintola Eliel, address: Rautatieasema, HELSINKI
+Restaurant: Ravintola Elite, address: Eteläinen Hesperiankatu 22, HELSINKI
+Restaurant: Ravintola Erätupa, address: Hiihtomäentie 38, HELSINKI
+Restaurant: Ravintola Fantasy Club, address: Visbynkuja 2, HELSINKI
+Restaurant: Ravintola Fransmanni, address: Kluuvikatu 8, HELSINKI
+Restaurant: Ravintola Fregatti, address: Valkopaadentie 1, HELSINKI
+Restaurant: Ravintola Frendi, address: Vanha Viertotie 10, HELSINKI
+Restaurant: Ravintola Golden Star Café Hartwall Areena, address: Areenankuja 1, HELSINKI
+Restaurant: Ravintola Grande Grill, address: Aleksanterinkatu 15 B, HELSINKI
+Restaurant: Ravintola Graniittilinna, address: Säästöpankinranta 6, HELSINKI
+Restaurant: Ravintola Heinähattu Pub, address: Vaasankatu 23, HELSINKI
+Restaurant: Ravintola Hermannin Kukko, address: Hämeentie 81-83, HELSINKI
+Restaurant: Ravintola Hilpeä Hauki, address: Vaasankatu 7, HELSINKI
+Restaurant: Ravintola HSS Boathouse (kesäravintola), address: Liuskasaari, HELSINKI
+Restaurant: Ravintola Huvipursi, address: Pursimiehenkatu 27, HELSINKI
+Restaurant: Ravintola Idän Piste, address: Turunlinnantie 14, HELSINKI
+Restaurant: Ravintola Il Treno, address: Pallaksentie 4, HELSINKI
+Restaurant: Ravintola Iltakoulu, address: Vaasankatu 5, HELSINKI
+Restaurant: Ravintola India Tandoor, address: Salomonkatu 19, HELSINKI
+Restaurant: Ravintola Juttutupa, address: Säästöpankinranta 6, HELSINKI
+Restaurant: Ravintola Kaivohuone, address: Iso Puistotie 1, HELSINKI
+Restaurant: Ravintola Kalevan Krouvi, address: Kalevankatu 51, HELSINKI
+Restaurant: Ravintola Kappeli, address: Eteläesplanadi 1, HELSINKI
+Restaurant: Ravintola Kapteenin Kajuutta, address: Koulutanhua 6, HELSINKI
+Restaurant: Ravintola Karhuministeri, address: Mannerheimintie 51, HELSINKI
+Restaurant: Ravintola Karljohan, address: Yrjönkatu 21, HELSINKI
+Restaurant: Ravintola Kartanon Kievari, address: Malminkartanonaukio 4, HELSINKI
+Restaurant: Ravintola Katajanmarja, address: Linnankatu 9, HELSINKI
+Restaurant: Ravintola Kellarikrouvi, address: Pohjoinen Makasiinikatu 6, HELSINKI
+Restaurant: Ravintola Kokomo Tikibar & Room, address: Uudenmaankatu 16-20 B, HELSINKI
+Restaurant: Ravintola Kolmas Linja, address: Kolmas linja 6, HELSINKI
+Restaurant: Ravintola Kolme Kaisaa, address: Hämeentie 29, HELSINKI
+Restaurant: Ravintola Konja, address: Torikatu 4, HELSINKI
+Restaurant: Ravintola Kulosaaren Casino, address: Hopeasalmenpolku 1, HELSINKI
+Restaurant: Ravintola Kummisetä, address: Kastelholmantie 2, HELSINKI
+Restaurant: Ravintola Kuparilyhty, address: Svinhufvudintie 1, HELSINKI
+Restaurant: Ravintola Kurjenlento, address: Fleminginkatu 11, HELSINKI
+Restaurant: Ravintola Kurvitar, address: Hämeentie 58-60, HELSINKI
+Restaurant: Ravintola Kustaa Vaasa, address: Vaasankatu 10, HELSINKI
+Restaurant: Ravintola Kuu, address: Töölönkatu 27, HELSINKI
+Restaurant: Ravintola Kuudes Linja, address: Hämeentie 13, HELSINKI
+Restaurant: Ravintola Käpygrilli, address: Osmontie 5, HELSINKI
+Restaurant: Ravintola Laiska Karhu, address: Mechelininkatu 25, HELSINKI
+Restaurant: Ravintola Las Vegas, address: Viides linja 8, HELSINKI
+Restaurant: Ravintola Lasipalatsi, address: Mannerheimintie 22-24, HELSINKI
+Restaurant: Ravintola Lastu, address: Mannerheimintie 46, HELSINKI
+Restaurant: Ravintola Lepakkomies, address: Helsinginkatu 1, HELSINKI
+Restaurant: Ravintola Linnanhenki, address: Linnanrakentajantie 7, HELSINKI
+Restaurant: Ravintola Lobby Bar, address: Elielinaukio 5, HELSINKI
+Restaurant: Ravintola Loiste, address: Kaivokatu 3 A, HELSINKI
+Restaurant: Ravintola Luft, address: Aleksis Kiven katu 30, HELSINKI
+Restaurant: Ravintola Lyon, address: Mannerheimintie 56, HELSINKI
+Restaurant: Ravintola Lysti, address: Vattuniemenkatu 12, HELSINKI
+Restaurant: Ravintola Lähde, address: Salpausseläntie 11, HELSINKI
+Restaurant: Ravintola Main Street Helsingin Jäähalli, address: Nordenskiöldinkatu 11-13, HELSINKI
+Restaurant: Ravintola Makasiini Restaurant &Bar, address: Katajanokanlaituri 7, HELSINKI
+Restaurant: Ravintola Manala, address: Museokatu 10, HELSINKI
+Restaurant: Ravintola Meri Pub, address: Haapaniemenkatu 14 A, HELSINKI
+Restaurant: Ravintola Meritähti, address: Itämerenkatu 14, HELSINKI
+Restaurant: Ravintola Mestarikilta, address: Rahakamarinportti 3, HELSINKI
+Restaurant: Ravintola Mestaritalli, address: Merikannontie 2, HELSINKI
+Restaurant: Ravintola Mexi, address: Mannerheimintie 53, HELSINKI
+Restaurant: Ravintola Miami, address: Yrttimaantie 26, HELSINKI
+Restaurant: Ravintola Minos, address: Urho Kekkosen katu 1 A, HELSINKI
+Restaurant: Ravintola Moon Light, address: 3. linja 6, HELSINKI
+Restaurant: Ravintola Morris, address: Hämeentie 10, HELSINKI
+Restaurant: Ravintola Musta Härkä, address: Mäkelänkatu 52, HELSINKI
+Restaurant: Ravintola Muusan Krouvi, address: Muusantori 5, HELSINKI
+Restaurant: Ravintola New Parkstad, address: Puistolantori 6, HELSINKI
+Restaurant: Ravintola NJK, address: Valkosaari, HELSINKI
+Restaurant: Ravintola Nuevo, address: Sofiankatu 4, HELSINKI
+Restaurant: Ravintola Nuori Messipoika, address: Maatullinaukio 10, HELSINKI
+Restaurant: Ravintola Nyyrikin Iltatähti, address: Pohjolankatu 2, HELSINKI
+Restaurant: Ravintola O'Malley's, address: Yrjönkatu 26, HELSINKI
+Restaurant: Ravintola Old Sophie, address: Koskelantie 9, HELSINKI
+Restaurant: Ravintola Olipa Kerran..., address: Albertinkatu 34, HELSINKI
+Restaurant: Ravintola Olo, address: Pohjoisesplanadi 5, HELSINKI
+Restaurant: Ravintola Olotila, address: Gunnel Nymanin katu 5, HELSINKI
+Restaurant: Ravintola Om'Pu, address: Siltasaarenkatu 15, HELSINKI
+Restaurant: Ravintola Painobaari, address: Sanomatalo Postikuja 2, HELSINKI
+Restaurant: Ravintola Palace, address: Eteläranta 10, HELSINKI
+Restaurant: Ravintola Park Pub, address: Puistolantori 1, HELSINKI
+Restaurant: Ravintola Parrilla Española, address: Eerikinkatu 4, HELSINKI
+Restaurant: Ravintola Paussi, address: Viipurinkatu 14, HELSINKI
+Restaurant: Ravintola Pelimanni, address: Puistolantori 4, HELSINKI
+Restaurant: Ravintola Piano 1, address: Karhusuontie 75, HELSINKI
+Restaurant: Ravintola Piccolo Marinero, address: Kalkkihiekantie 2, HELSINKI
+Restaurant: Ravintola Pikku-Pelikaani, address: Meri-Rastilan kuja 2, HELSINKI
+Restaurant: Ravintola Pikku-Vallila, address: Vallilantie 19, HELSINKI
+Restaurant: Ravintola Pinetto, address: Kirkonkyläntie 47, HELSINKI
+Restaurant: Ravintola Pohjanpoika, address: Jakomäenkuja 4, HELSINKI
+Restaurant: Ravintola Populus, address: Aleksis Kiven katu 22, HELSINKI
+Restaurant: Ravintola Power Play Hartwall Areena, address: Areenankuja 1, HELSINKI
+Restaurant: Ravintola Prankkari, address: Kaarlenkatu 1, HELSINKI
+Restaurant: Ravintola Provinssi, address: Korvatunturintie 2, HELSINKI
+Restaurant: Ravintola Pyysaari, address: Henrik Borgströmin puisto, HELSINKI
+Restaurant: Ravintola Rafla, address: Uudenmaankatu 9, HELSINKI
+Restaurant: Ravintola Rainbow, address: Ratavartijankatu 3, HELSINKI
+Restaurant: Ravintola Revontuli, address: Kajaaninlinnantie 4, HELSINKI
+Restaurant: Ravintola Ristorante daVinci, address: Mannerheimintie 22-24, HELSINKI
+Restaurant: Ravintola Royal Club Helsingin Jäähalli, address: Nordenskiöldinkatu 11-13, HELSINKI
+Restaurant: Ravintola Rubiini, address: Jousimiehentie 3, HELSINKI
+Restaurant: Ravintola Ruiskumestari, address: Roihuvuorentie 10, HELSINKI
+Restaurant: Ravintola Rytmi, address: Toinen linja 2, HELSINKI
+Restaurant: Ravintola Saari, address: Sirpalesaari, HELSINKI
+Restaurant: Ravintola Saaristo, address: Klippan Luoto, HELSINKI
+Restaurant: Ravintola Sankari, address: Liiketie 4, HELSINKI
+Restaurant: Ravintola Santa Fé, address: Aleksanterinkatu 15, HELSINKI
+Restaurant: Ravintola Savoy, address: Eteläesplanadi 14, HELSINKI
+Restaurant: Ravintola Savu, address: Tervasaarenkannas 3, HELSINKI
+Restaurant: Ravintola Sea Horse, address: Kapteeninkatu 11, HELSINKI
+Restaurant: Ravintola Seitsemän Veljestä, address: Aleksis Kiven Katu 80, HELSINKI
+Restaurant: Ravintola Semifinal, address: Urho Kekkosen katu 6, HELSINKI
+Restaurant: Ravintola Seurahuone Restaurang, address: Kaivokatu 12, HELSINKI
+Restaurant: Ravintola Shaker, address: Fredrikinkatu 65, HELSINKI
+Restaurant: Ravintola Shampers, address: Mannerheimintie 14 A, HELSINKI
+Restaurant: Ravintola Siilinpesä, address: Siilitie 1, HELSINKI
+Restaurant: Ravintola Silver Star Café Hartwall Areena, address: Areenankuja 1, HELSINKI
+Restaurant: Ravintola Sipuli, address: Kanavaranta 7, HELSINKI
+Restaurant: Ravintola Sir Olavi, address: Korppaanmäentie 11 A, HELSINKI
+Restaurant: Ravintola Sir Oliver, address: Haapaniemenkatu 14, HELSINKI
+Restaurant: Ravintola Sivuraide, address: Hämeentie 54, HELSINKI
+Restaurant: Ravintola Sling In Bar, address: Mikonkatu 8 2. krs, HELSINKI
+Restaurant: Ravintola Sorbet, address: Sitratie 7, HELSINKI
+Restaurant: Ravintola St. Urho's Pub, address: Museokatu 10, HELSINKI
+Restaurant: Ravintola Stadin Tähti, address: Mäkelänkatu 2, HELSINKI
+Restaurant: Ravintola Sunside, address: Sahaajankatu 26, HELSINKI
+Restaurant: Ravintola Teatteri, address: Pohjoisesplanadi 2, HELSINKI
+Restaurant: Ravintola Tenkka, address: Helsinginkatu 15, HELSINKI
+Restaurant: Ravintola Tiilenpää, address: Aurinkotuulenkatu 10 A 24, HELSINKI
+Restaurant: Ravintola Torni, address: Kalevankatu 5, HELSINKI
+Restaurant: Ravintola Toveri, address: Castréninkatu 3, HELSINKI
+Restaurant: Ravintola Täysikuu, address: Huovitie 3, HELSINKI
+Restaurant: Ravintola Töölönranta, address: Helsinginkatu 56, HELSINKI
+Restaurant: Ravintola U Kaleva, address: Kalevankatu 3, HELSINKI
+Restaurant: Ravintola Ugly Duckling, address: Tulisuontie 1, HELSINKI
+Restaurant: Ravintola Ukko-Munkki, address: Laajalahdentie 19 , Munkkiniemi, HELSINKI
+Restaurant: Ravintola Unelma, address: Vanhaistentie 3, HELSINKI
+Restaurant: Ravintola Vaahtera, address: Kyttäläntie 3, HELSINKI
+Restaurant: Ravintola Vega, address: Kylänvanhimmantie 29, HELSINKI
+Restaurant: Ravintola Vesala, address: Rekipellontie 11, HELSINKI
+Restaurant: Ravintola Viisi Penniä, address: Mannerheimintie 55, HELSINKI
+Restaurant: Ravintola Villi Wäinö, address: Kalevankatu 4, HELSINKI
+Restaurant: Ravintola Viola, address: Ruoholahdenranta 3, HELSINKI
+Restaurant: Ravintola VPK, address: Albertinkatu 29, HELSINKI
+Restaurant: Ravintola Väentupa, address: Olavinkatu 1, HELSINKI
+Restaurant: Ravintola Walhalla, address: Suomenlinna A 10, HELSINKI
+Restaurant: Ravintola Wanha Herra, address: Itälahdenkatu 7, HELSINKI
+Restaurant: Ravintola Wanha Mylly, address: Linnanrakentajantie 12, HELSINKI
+Restaurant: Ravintola Wanha Rouva, address: Ostostie 4, HELSINKI
+Restaurant: Ravintola Weeruska, address: Porvoonkatu 19, HELSINKI
+Restaurant: Ravintola Wellamo, address: Laivastokatu 18, HELSINKI
+Restaurant: Ravintola Wenla, address: Keinulaudankuja 4, HELSINKI
+Restaurant: Ravintola White Lady, address: Mannerheimintie 93, HELSINKI
+Restaurant: Ravintola Willihanhi, address: Puustellinpolku 8, HELSINKI
+Restaurant: Ravintola Windsor, address: Maistraatinportti 4, HELSINKI
+Restaurant: Ravintola Wossikka, address: Sulkapolku 3, HELSINKI
+Restaurant: Ravintola Zorbas, address: Läntinen Brahenkatu 4 A, HELSINKI
+Restaurant: Ravintola-Pizzeria Pompei, address: Snellmaninkatu 16, HELSINKI
+Restaurant: Ravintolalaiva Flying Dutch, address: Siltasaarenkatu 2, HELSINKI
+Restaurant: Ravintolalaiva Maria, address: Hakaniemenranta, HELSINKI
+Restaurant: Ravintolalaiva Wäiski, address: Hakaniemenranta 11, HELSINKI
+Restaurant: Reissumies Pub, address: Koulutanhua 6, HELSINKI
+Restaurant: Relaxin Bar & Cafe, address: Helsinginkatu 13, HELSINKI
+Restaurant: Restaurant & Cafe Simonkatu, address: Simonkatu 9, HELSINKI
+Restaurant: Restel Ravintolat Oy / Helsingin Jäähalli, address: Nordenskiöldinkatu 11-13, HELSINKI
+Restaurant: Ristorante Supremo, address: Mannerheimintie 63, HELSINKI
+Restaurant: Robert's Coffee Arabia, address: Hämeentie 109-111, HELSINKI
+Restaurant: Robert's Coffee Citykäytävä, address: Aleksanterinkatu 21, HELSINKI
+Restaurant: Robert's Coffee Itis Bulevardi, address: Itäkatu 1, HELSINKI
+Restaurant: Robert's Coffee Itis Pasaasi, address: Itäkatu 7, HELSINKI
+Restaurant: Robert's Coffee Kaisaniemi, address: Kaisaniemenkatu 3, HELSINKI
+Restaurant: Robert's Coffee Kamppi, address: Kampinkuja 2 (sähkötalo), HELSINKI
+Restaurant: Robert's Coffee Katajannokka, address: Kanavaranta 4, HELSINKI
+Restaurant: Robert's Coffee Kluuvi, address: Kluuvikatu 7, HELSINKI
+Restaurant: Robert's Coffee Makasiiniterminaali, address: Makasiiniterminaali Eteläsatama, HELSINKI
+Restaurant: Robert's Coffee Olympiaterminaali, address: Olympiaranta 1, HELSINKI
+Restaurant: Robert's Coffee Pasila, address: Ratapihantie 6, HELSINKI
+Restaurant: Robert's Coffee Rautatieasema, address: Kaivokatu 1 Helsingin rautatieasema, HELSINKI
+Restaurant: Robert's Coffee Töölöntori, address: Töölöntori, HELSINKI
+Restaurant: Robert's Coffee, Espressobar Stockmann, address: Aleksanterinkatu 52, HELSINKI
+Restaurant: Rock Bar The Stage Helsinki, address: Iso Roobertinkatu 13, HELSINKI
+Restaurant: Sailor's, address: Laivalahdenkaari 29, HELSINKI
+Restaurant: Salud Bar, address: Konalantie 2, HELSINKI
+Restaurant: Salve, address: Hietalahdenranta 11, HELSINKI
+Restaurant: Sauna Vogue, address: Sturenkatu 27 A 5.krs, HELSINKI
+Restaurant: Scanburger, address: Urho Kekkosen katu 1, HELSINKI
+Restaurant: Scandic Grand Marina, address: Katajanokanlaituri 7, HELSINKI
+Restaurant: Scandic Simonkenttä, address: Simonkatu 9, HELSINKI
+Restaurant: Shot Bar, address: Yliopistonkatu 8, HELSINKI
+Restaurant: Siima Baari, address: Vaasankatu 25 A, HELSINKI
+Restaurant: Sikarihuone, address: Lönnrotinkatu 19 A, HELSINKI
+Restaurant: SilverDollar Oy, address: Hämeentie 23, HELSINKI
+Restaurant: Sininen Baari, address: Arkadiankatu 21, HELSINKI
+Restaurant: Sir Eino Olutravintola, address: Eteläesplanadi 18, HELSINKI
+Restaurant: Sivukirjasto, address: Fleminginkatu 5, HELSINKI
+Restaurant: Soittoruokala Roskapankki, address: Helsinginkatu 20, HELSINKI
+Restaurant: Sokos Café, address: Mannerheimintie 9, HELSINKI
+Restaurant: Sportpub Chelsea, address: Töölönlahdenkatu 1, HELSINKI
+Restaurant: Sports Academy, address: Kaivokatu 8, HELSINKI
+Restaurant: Sporttibaari Mode, address: Viipurinkatu 18, HELSINKI
+Restaurant: Spårakoff, address: Hietaniemenkatu 14, HELSINKI
+Restaurant: Star Cafe, address: Liisankatu 14, HELSINKI
+Restaurant: Starbucks, address: Helsinki-Vantaan Lentoasema Saapuvien aula 2B, VANTAA
+Restaurant: Storyville Jazz Club, address: Museokatu 8, HELSINKI
+Restaurant: Strindberg, address: Pohjoisesplanadi 33, HELSINKI
+Restaurant: Sture Jazz Bar, address: Sturenkatu 29, HELSINKI
+Restaurant: Sump House, address: Kivikonkaari 12, HELSINKI
+Restaurant: Suomenlinnan Panimo, address: Suomenlinna C, HELSINKI
+Restaurant: Tablo Ateneum, address: Kaivokatu 2-4, HELSINKI
+Restaurant: Tartan, address: Vanhaistentie 1, HELSINKI
+Restaurant: Tavastia Klubi, address: Urho Kekkosen katu 4-6, HELSINKI
+Restaurant: Teerenpeli Helsinki, address: Kamppi Olavinkatu 2, HELSINKI
+Restaurant: Teeritupa, address: Pekanraitti 4, HELSINKI
+Restaurant: Terassibar, address: Porthaninkatu 9, HELSINKI
+Restaurant: The Circus, address: Salomonkatu 1-3, HELSINKI
+Restaurant: The Pullman Bar, address: Helsingin Rautatieasema, HELSINKI
+Restaurant: The Tiger, address: Urho Kekkosen katu 1, HELSINKI
+Restaurant: TPM-Yhtiöt Oy, address: Mariankatu 15 a A 21, HELSINKI
+Restaurant: Treffipub, address: Hiihtomäentie 14, HELSINKI
+Restaurant: Tsemppi-Kahvio, address: Kirstinkatu 13, HELSINKI
+Restaurant: Uusipallo, address: Käenkuja 8 C 34 a c/o Tili-Beta Oy, HELSINKI
+Restaurant: Viinibaari Latva, address: Korkeavuorenkatu 25, HELSINKI
+Restaurant: Virgin Oil Co., address: Mannerheimintie 5, HELSINKI
+Restaurant: Vltava, address: Elielinaukio 2, HELSINKI
+Restaurant: Wall St. Bar, address: Ateneuminkuja 4, HELSINKI
+Restaurant: Westminster, address: Hämeentie 94, HELSINKI
+Restaurant: William K. Annankatu, address: Annankatu 3, HELSINKI
+Restaurant: William K. Kurvi, address: Helsinginkatu 2, HELSINKI
+Restaurant: William K. Mannerheimintie, address: Mannerheimintie 72, HELSINKI
+Restaurant: William K. Tennispalatsi, address: Fredrikinkatu 65, HELSINKI
+Restaurant: Willy'S Pub, address: Roihuvuorentie 28, HELSINKI
+Restaurant: Winebar Vin-Vin, address: Kalevankatu 6, HELSINKI
+Restaurant: Wineserver Tomi Naarvala, address: Maneesikatu 4a A 21 c/o Tomi Naarvala, HELSINKI
+Restaurant: Zetor, address: Mannerheimintie 3-5, HELSINKI
