@@ -3,6 +3,7 @@ package restaurants;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
@@ -20,8 +21,52 @@ public class RestaurantSearch {
     public RestaurantSearch() throws IOException, ClassNotFoundException {
         restaurantList = new Serialiser().deserialize(filename);
     }
+    
+    public List<Restaurant> crossWordMatch(String s) {
+        String regex = ".*" + s.replace('*', '.').toLowerCase() + ".*";
+        List<Restaurant> matchingRestaurants = new ArrayList<>();
+        
+        for (Restaurant restaurant : restaurantList) {
+            String name = restaurant.getName().toLowerCase();
+            if (name.matches(regex))
+                matchingRestaurants.add(restaurant);
+        }
+        
+        return matchingRestaurants;
+    }
 
-    public List<Restaurant> search(String s) {
+    public List<Restaurant> anagramMatch(String s) {
+        String sLower  = s.toLowerCase();
+        int windowSize = s.length();
+        List<Restaurant> matchingRestaurants = new ArrayList<>();
+        
+        for (Restaurant restaurant : restaurantList) {
+            String name = restaurant.getName().toLowerCase();
+            
+            int limit = name.length() - windowSize;
+            for (int i = 0; i <= limit; ++i) {
+                String sub = name.substring(i, i + windowSize);
+                if (isAnagram(sub, sLower)) {
+                    matchingRestaurants.add(restaurant);
+                    break;
+                }
+            }
+        }
+        
+        return matchingRestaurants;
+    }
+    
+    private boolean isAnagram(String a, String b) {
+        char[] aArray = a.toCharArray();
+        char[] bArray = b.toCharArray();
+        
+        Arrays.sort(aArray);
+        Arrays.sort(bArray);
+        
+        return Arrays.equals(aArray, bArray);
+    }
+    
+    public List<Restaurant> partialMatch(String s) {
         String[] split = s.trim().split("\\s");
         List<Set<Restaurant>> sets = new ArrayList<>();
         for (String string : split) {
