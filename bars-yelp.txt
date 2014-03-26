@@ -1,0 +1,10 @@
+Restaurant: Bar Haven, address: null
+Restaurant: Bar Llamas, address: null
+Restaurant: Flying Dutch, address: null
+Restaurant: Kafe Moskova, address: null
+Restaurant: Kaisla, address: null
+Restaurant: mbar, address: null
+Restaurant: Musta Kissa, address: null
+Restaurant: Pub Magneetti, address: null
+Restaurant: Pueblo, address: null
+Restaurant: Sushibar, address: null
