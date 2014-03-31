@@ -58,6 +58,8 @@ public class GUI extends javax.swing.JFrame {
             else
                 itemDetails.setText(matchingRestaurants.get(index).toString());
         });
+        
+        updateResultList();
     }
 
     /**

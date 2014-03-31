@@ -21,7 +21,6 @@ Restaurant: Adams Club & Restaurant, address: Erottajankatu 15-17, HELSINKI
 Restaurant: Ahjo Bar and Night Club, address: Bulevardi 2-4, HELSINKI
 Restaurant: Ahjo Bar&Club, address: Bulevardi 2-4, Helsinki
 Restaurant: Aikatalon Parturi, address: Mikonkatu 8, Helsinki
-Restaurant: Aino Heiniö, address: Perämiehenkatu 11 D 58, Helsinki
 Restaurant: Akateeminen Laulu, address: Karjalankatu 18 B 22, Helsinki
 Restaurant: Akrobaatti Jani Hurmerinta, address: Hämeentie 2 B B 4, Helsinki
 Restaurant: Aladdin, address: Itätuulenkuja 10, Espoo
@@ -31,7 +30,6 @@ Restaurant: Alcatraz, address: Eerikinkatu 3, Helsinki
 Restaurant: Alcatraz Club, address: Eerikinkatu 3, HELSINKI
 Restaurant: Ale-Pub, address: Mannerheimintie 5, Helsinki
 Restaurant: Ale-Pub Kaivopiha, address: Mannerheimintie 5, HELSINKI
-Restaurant: Aleksis K, address: Aleksis Kiven katu 14, Helsinki
 Restaurant: ALiShan, address: Läkkisepäntie 14, 00620 Helsinki
 Restaurant: Allastekno, address: Lauttasaarentie 54 A, Helsinki
 Restaurant: Alley Tech, address: Vattuniemenkatu 6 B 17, Helsinki
@@ -54,7 +52,6 @@ Restaurant: Amica Salmisaari, address: Salmisaarenaukio 1, 00180 Helsinki
 Restaurant: Amigo, address: Tehtaankatu 12, 00140 Helsinki
 Restaurant: Amigo Bar, address: Tehtaankatu 12, Helsinki
 Restaurant: Amigo Pizzeria, address: Maatullinaukio, 00750 Helsinki
-Restaurant: Ammattilehtipalvelu Alpa, address: Itämerenkatu 8 B 44, Helsinki
 Restaurant: Amsterdam, address: Itämerenkuja 1 C, 00180 Helsinki
 Restaurant: Angleterre, address: Fredrikinkatu 47, HELSINKI
 Restaurant: Angora (Capris), address: Kustaankatu 2, 00500 Helsinki
@@ -69,7 +66,6 @@ Restaurant: Antell-ravintola Vallilan Akseli, address: Lemuntie 3-5, 00510 Helsi
 Restaurant: Anthem, address: Isonmastontie 17 A 1, Helsinki
 Restaurant: Antin Kaffeliiteri, address: Antin aukio Seurasaari, 00250 Helsinki
 Restaurant: Antiokia Atabar, address: Eerikinkatu 44, 00180 Helsinki
-Restaurant: Antman M. Ky, address: Runeberginkatu 4, Helsinki
 Restaurant: Antti Routto Tmi, address: Siltasaarenkatu 15, Helsinki
 Restaurant: Apollo Café, address: Mannerheimintie 16, HELSINKI
 Restaurant: Apollo Live Club, address: Mannerheimintie 16, HELSINKI
@@ -95,8 +91,6 @@ Restaurant: Aseman Grilli, address: Pennikuja 4, 00440 Helsinki
 Restaurant: Aseman Wursti, address: Rautatieasema, 00100 Helsinki
 Restaurant: Asia Palace, address: Särkiniementie 5, 00210 Helsinki
 Restaurant: Asian Woking, address: Hansakuja 4 -4, 00930 Helsinki
-Restaurant: Askel Tuotannot Ky, address: Oksasenkatu 6 B 10, Helsinki
-Restaurant: Astro Bar Productions, address: Somerontie 14, Helsinki
 Restaurant: Ateljee Bar, address: Kalevankatu 5, HELSINKI
 Restaurant: Ateljé Finne, address: Arkadiankatu 14, 00100 Helsinki
 Restaurant: Audio Video Freak, address: Säynäkuja 4, Helsinki
@@ -110,7 +104,6 @@ Restaurant: Avanti! Kamariorkesteri, address: Tallberginkatu 1-146, Helsinki
 Restaurant: Avsound, address: Mannerheimintie 126 B 28, Helsinki
 Restaurant: Axun Rytmi, address: Yliskyläntie 6 G 67, Helsinki
 Restaurant: Azadi, address: Kauppakartanonkatu 16, 00930 Helsinki
-Restaurant: B At Joe's, address: Humalistonkatu 7 B 67, Helsinki
 Restaurant: Baarikärpänen, address: Mikonkatu 15, HELSINKI
 Restaurant: Bada Bing, address: Itätuulenkuja 10, Espoo
 Restaurant: Baguette, address: Ala-Malmintori 5, 00700 Helsinki
@@ -147,7 +140,6 @@ Restaurant: Bar Chaplin, address: Mannerheimintie 6, 00100 Helsinki
 Restaurant: Bar Code, address: Mannerheimintie 50, HELSINKI
 Restaurant: Bar Exodus, address: Hämeentie 81-83, HELSINKI
 Restaurant: Bar Fellows, address: Mannerheimintie 64, HELSINKI
-Restaurant: BAR Finland, address: Pursimiehenkatu 29, Helsinki
 Restaurant: Bar Flagon, address: Vilhonvuorenkatu 5, 00500 Helsinki
 Restaurant: Bar Geronimo, address: Kaupinkalliontie 7, Espoo
 Restaurant: Bar Haven, address: Unioninkatu 17, Helsinki
@@ -216,7 +208,6 @@ Restaurant: Birdland, address: Mannerheimintie 8, Helsinki
 Restaurant: Bistro Gradus, address: Paciuksenkatu 25, 00270 Helsinki
 Restaurant: Bistro Helsinki 15, address: Korkeavuorenkatu 4, 00150 Helsinki
 Restaurant: Bistro Maria, address: Munkkiniemen Puistotie 19, 00330 Helsinki
-Restaurant: Black Door, address: Iso Roobertinkatu 1, Helsinki
 Restaurant: Black Door Olutravintola, address: Iso Roobertinkatu 1, HELSINKI
 Restaurant: Blancco (Pitäjänmäki), address: Pitäjänmäentie 14, 00380 Helsinki
 Restaurant: Blinit, address: Sturenkatu 9, 00510 Helsinki
@@ -233,7 +224,6 @@ Restaurant: Bombay Express, address: Hämeentie 16, Helsinki
 Restaurant: Bon Cafe Ky, address: Laippatie 1, Helsinki
 Restaurant: Books & Antiques, address: Malminrinne 1, Helsinki
 Restaurant: Boomout Productions, address: Annankatu 2A 1 B, Helsinki
-Restaurant: Boothill, address: Lönnrotinkatu 25, Helsinki
 Restaurant: Botta, address: Töölönkatu 3 A, Helsinki
 Restaurant: Boulevard Social, address: Bulevardi 6, 00100 Helsinki
 Restaurant: Brander Ulla Pirjetta, address: Tallberginkatu 1, Helsinki
@@ -249,14 +239,12 @@ Restaurant: Bridges, address: John Stenbergin ranta 4, 00530 Helsinki
 Restaurant: Brigantiini Mary Ann, address: Lahdensivunpolku 12, HELSINKI
 Restaurant: Britannia, address: Vanhaistentie 1, 00420 Helsinki
 Restaurant: Bronda, address: Eteläesplanadi 20, 00130 Helsinki
-Restaurant: Bruuveri, address: Fredrikinkatu 63, Helsinki
 Restaurant: Bryggeri, address: Sofiankatu 2, Helsinki
 Restaurant: Bryggeri Helsinki, address: Sofiankatu 2, 00170 Helsinki
 Restaurant: Bud's Pizzeria, address: Helsinginkatu 11, 00500 Helsinki
 Restaurant: Bulevardin Kahvisalonki, address: Bulevardi 1, 00100 Helsinki
 Restaurant: Bullman, address: Fleminginkatu 21 B, 00500 Helsinki
 Restaurant: Burger King, address: Kaivokatu 1, 00100 Helsinki
-Restaurant: Bylkpop, address: Runeberginkatu 53 B 39, Helsinki
 Restaurant: Bäkkäri, address: Pohjoinen Rautatiekatu 21, Helsinki
 Restaurant: Cafe & Bar Base, address: Kalevankatu 3, Helsinki
 Restaurant: Cafe & Eepos, address: Runeberginkatu 29, 00100 Helsinki
@@ -270,7 +258,6 @@ Restaurant: Cafe Bar 9, address: Uudenmaankatu 9, Helsinki
 Restaurant: Cafe Bar Kivikko, address: Kivikonkaari 39 C, 00940 Helsinki
 Restaurant: Cafe Bar No 9, address: Uudenmaankatu 9-11, 00120 Helsinki
 Restaurant: Cafe Bar Romano, address: Läntinen Brahenkatu 4, 00510 Helsinki
-Restaurant: Cafe Bar Spot, address: Mannerheimintie 21-23, Helsinki
 Restaurant: Cafe Bar Tauko, address: Aleksanterinkatu 11, HELSINKI
 Restaurant: Cafe Bar Valimo, address: Suomenlinna B 13, 00190 Helsinki
 Restaurant: Cafe Boulevard, address: Itäkatu 1-5 A 14, 00930 Helsinki
@@ -356,7 +343,6 @@ Restaurant: Cardemumma, address: Kaarlenkatu 15, Helsinki
 Restaurant: Carelia, address: Mannerheimintie 56, 00260 Helsinki
 Restaurant: Caruzello, address: Tivolikuja 1, 00510 Helsinki
 Restaurant: Casa Largo, address: Asema-Aukio 2, 00100 Helsinki
-Restaurant: Casa Ravintolat, address: Eerikinkatu 43, Helsinki
 Restaurant: Casale Ky, address: Pelimannintie 15 A 180, Helsinki
 Restaurant: Casino Helsinki, address: Mikonkatu 19, Helsinki
 Restaurant: Casino Helsinki / Casino Piazza, address: Mikonkatu 19, 00100 Helsinki
@@ -446,7 +432,6 @@ Restaurant: Dalin Express Pizzeria, address: Ratapihantie 3 c, 00520 Helsinki
 Restaurant: Danphe, address: Sturenkatu 32-34, 00550 Helsinki
 Restaurant: Dansan Deli, address: Vattuniemenkatu 13, 00210 Helsinki
 Restaurant: Darcor Tmi, address: Lintulahdenaukio 8 A 2, Helsinki
-Restaurant: Dark Side Club, address: Perhonkatu 6, Helsinki
 Restaurant: Daruma, address: Kampinkuja 2 C, 00100 Helsinki
 Restaurant: Davidin Tähti Ky, address: Porslahdentie 23 K 58, Helsinki
 Restaurant: Day & Nite, address: Pohjoinen Makasiinikatu 9, Helsinki
@@ -514,7 +499,6 @@ Restaurant: Elite, address: Eteläinen Hesperiankatu 22, 00100 Helsinki
 Restaurant: Elmeri Pizzeria, address: Paasivuorenkatu 1, 00530 Helsinki
 Restaurant: Elmo, address: Salomonkatu 17 B, Helsinki
 Restaurant: Elmo Sports & Grill, address: Salomonkatu 17, 00100 Helsinki
-Restaurant: Elorytmi, address: Töölöntorinkatu 3 B 30, Helsinki
 Restaurant: Ember Records, address: Taimistontie 4 A B 32, Helsinki
 Restaurant: Empire Plaza, address: Urho Kekkosen Katu 1, Helsinki
 Restaurant: Enis Pizzeria & Kebab, address: Väärämäentie 3, 00700 Helsinki
@@ -567,13 +551,10 @@ Restaurant: Fenix, address: Eerikinkatu 14, Helsinki
 Restaurant: Fennia, address: Kauppakeskus Sello, Espoo
 Restaurant: Festium, address: Pohjoinen Hesperiankatu 9, Helsinki
 Restaurant: Fever Bar & Club, address: Annankatu 32, Helsinki
-Restaurant: FH Cafe & Ravintola, address: Aleksis Kiven Katu 30, Helsinki
 Restaurant: Fillari, address: Pakilantie 11, Helsinki
 Restaurant: Fills Kitchen & Bar, address: Mikonkatu 19, 00100 Helsinki
 Restaurant: Fin Pizzeria, address: Soidintie 8, 00700 Helsinki
 Restaurant: Finn Pizza, address: Varhelantie 3, 00970 Helsinki
-Restaurant: Finn-Kanteleet R.Y., address: Satamakatu 5 B 25, Helsinki
-Restaurant: Finnish Sex Factory Co, address: Köydenpunojankatu 8 J 218, Helsinki
 Restaurant: Fino Bar & Grill, address: Malmin kauppatie 18, 00700 Helsinki
 Restaurant: Fino-Bar & Grill, address: Malmin kauppatie 18, HELSINKI
 Restaurant: FishMarket, address: Pohjoisesplanadi 17, 00170 Helsinki
@@ -592,7 +573,6 @@ Restaurant: Foxy Bear, address: Kettutie 2, 00800 Helsinki
 Restaurant: Fransmanni Kluuvikatu, address: Kluuvikatu 8, 00100 Helsinki
 Restaurant: Fratello Torrefazione, address: Yliopistonkatu 6, 00100 Helsinki
 Restaurant: Freese Coffee Co., address: Freesenkatu 5, 00100 Helsinki
-Restaurant: Fregatti Oy Yrityspalvelut, address: Meritullinkatu 4 B, Helsinki
 Restaurant: Frendi, address: Vanha Viertotie, Helsinki
 Restaurant: Friday Music Bar, address: Keskuskatu 6, Helsinki
 Restaurant: Frutti di Mare, address: Porvoonkatu 23, 00510 Helsinki
@@ -632,7 +612,6 @@ Restaurant: Golden Rax Pizzabuffet, address: Mikonkatu 8, 00100 Helsinki
 Restaurant: Gongi Tuotanto, address: Puistokaari 15A 3, Helsinki
 Restaurant: Good Life Coffee, address: Vilhonvuorenkatu 7-9, 00500 Helsinki
 Restaurant: Goodwin the Steak House, address: Eteläranta 14, 00130 Helsinki
-Restaurant: Gottberg Susanne Margareta, address: Pursimiehenkatu 12 B 45, Helsinki
 Restaurant: Gottland Deli & Cafe, address: Pihlajatie 8, 00270 Helsinki
 Restaurant: Gran Delicato Galleria Esplanad, address: Pohjoisesplanadi 29, 00100 Helsinki
 Restaurant: Gran Delicato Kalevankatu, address: Kalevankatu 34, 00180 Helsinki
@@ -648,7 +627,6 @@ Restaurant: Gringos Locos Helsinki, address: Mannerheimintie 17, 00250 Helsinki
 Restaurant: Grotesk, address: Ludviginkatu 8-10, 00130 Helsinki
 Restaurant: Grotesk Wine Bar, address: Erottajankatu 13, 00130 Helsinki
 Restaurant: Guangzhou Yuan, address: Lastenkodinkuja 1, 00180 Helsinki
-Restaurant: Gyllström Katy Helena, address: Töölönkatu 36 B 45, Helsinki
 Restaurant: Gyosai-Sushi, address: Runeberginkatu 40, 00260 Helsinki
 Restaurant: Haa-Re, address: Kaivosvoudintie 3B 26, Vantaa
 Restaurant: Haagan Pizza-Kebab, address: Huovitie 6, 00400 Helsinki
@@ -706,8 +684,6 @@ Restaurant: HelmiSimpukka Ala-Tikkurila, address: Härkävaljakontie 30, 00750 H
 Restaurant: HelmiSimpukka Konala, address: Ristipellontie 18, 00390 Helsinki
 Restaurant: HelmiSimpukka Pukinmäki, address: Ratavallintie 1, 00720 Helsinki
 Restaurant: Helsingin Diakonissalaitos / Alppica, address: Helsinginkatu 50, 00530 Helsinki
-Restaurant: Helsingin jäähalli, address: Nordenskiöldinkatu 11-13, Helsinki
-Restaurant: Helsingin Kamarimusiikkiyhdistys, address: Kalevankatu 34 A 9, Helsinki
 Restaurant: Helsingin Kaupungin Liikuntavirasto Uimahallit, address: Olavinlinnantie 6, Helsinki
 Restaurant: Helsingin Kaupunginteatteri, address: Ensi Linja 2, Helsinki
 Restaurant: Helsingin Kulttuurituotanto, address: Fredrikinkatu 45 A 3, Helsinki
@@ -715,9 +691,7 @@ Restaurant: Helsingin leipä Oy, address: Hakaniemen metroasema, 00530 Helsinki
 Restaurant: Helsingin Puutarha-allas, address: Yrityspiha 6, Helsinki
 Restaurant: Helsingin Sirkusammattilaiset, address: Halkaisijantie 2 D 40, Helsinki
 Restaurant: Helsingin teatterisäätiö, address: Ensi Linja 2, Helsinki
-Restaurant: Helsingin Urheilutalo, address: Helsinginkatu 25, Helsinki
 Restaurant: Helsingin Vapaa-Ajan Viihdekeskus, address: Mannerheimintie 6, Helsinki
-Restaurant: Helsinki Heavy Metal, address: Läntinen Brahenkatu 6 C 49, Helsinki
 Restaurant: Helsinki Underground Bar, address: Mikonkatu 13, HELSINKI
 Restaurant: Helsinki Underground Lounge, address: Mikonkatu 13, Helsinki
 Restaurant: Hemingway's, address: Hietalahdenranta 11, Helsinki
@@ -725,7 +699,6 @@ Restaurant: Hemingway's Aikatalo Mikonkatu Helsinki, address: Mikonkatu 8, HELSI
 Restaurant: Hemingway's Bar Cafe, address: Turunlinnantie 6, Helsinki
 Restaurant: Hemingway's Hietalahti Helsinki, address: Hietalahdenranta 11, HELSINKI
 Restaurant: Hemingway's Itäkeskus Helsinki, address: Turunlinnantie 6, HELSINKI
-Restaurant: Hemingway's Tikkurila, address: Asematie 4-10, Vantaa
 Restaurant: Henry's Pub, address: Simonkatu 3, 00100 Helsinki
 Restaurant: Hercules, address: Lönnrotinkatu 4, Helsinki
 Restaurant: Herkku Haarukka, address: Hämeentie 150, HELSINKI
@@ -734,7 +707,6 @@ Restaurant: Herkkulounas NT, address: Abraham wetterin tie 4, 00810 Helsinki
 Restaurant: Hermannin Kukko, address: Hämeentie 81-83, 00550 Helsinki
 Restaurant: Hermannin Pizza, address: Vellamonkatu 10, 00550 Helsinki
 Restaurant: Hermannin Pizza & Pub, address: Vellamonkatu 10, HELSINKI
-Restaurant: Hertas, address: Hertaksentie 2, Vantaa
 Restaurant: Hertsikan Helmi, address: Hitsaajankatu 14, 00810 Helsinki
 Restaurant: Hertta 5, address: Laivalahdenportti 2, 00810 Helsinki
 Restaurant: Hesari 4, address: Helsinginkatu 4, Helsinki
@@ -769,12 +741,11 @@ Restaurant: Himshikhar, address: Siltasaarenkatu 3, 00530 Helsinki
 Restaurant: Hippula Lasten Kirppis & Kaffela, address: Joukolantie 3, 00610 Helsinki
 Restaurant: Hitaat Musiikki, address: Untamontie 3 A 6, Helsinki
 Restaurant: Hiutale Bar, address: Annankatu 4, HELSINKI
-Restaurant: Hjelt Elina, address: Toinen Linja 11 B 56, Helsinki
 Restaurant: HK Makkarabaari, address: Kauppakeskus Kamppi, Urho Kekkosen katu 1, 00100 Helsinki
 Restaurant: Hohtogolf West Coast, address: Tasetie 8, Vantaa
 Restaurant: HOK-Elanto Liiketoiminta, address: Pohjantie 3, Espoo
 Restaurant: Hoku, address: Merimiehenkatu 18, 00100 Helsinki
-Restaurant: Holy Moly Dj's, address: 
+Restaurant: Holy Moly Dj's, address: null
 Restaurant: Hong Fu, address: Vilhonvuorenkatu 7, 00500 Helsinki
 Restaurant: Hong Ye, address: Linnankoskenkatu 11 B, 00250 Helsinki
 Restaurant: Hoshito, address: Mäkelänkatu 22, 00510 Helsinki
@@ -785,15 +756,12 @@ Restaurant: Hou Wei Asian express, address: hietalahdenranta 6, 00120 Helsinki
 Restaurant: Hua Fu Jiu Lou, address: Kirkonkyläntie 5 A, 00700 Helsinki
 Restaurant: Hua Tian, address: Mekaanikonkatu 7, 00880 Helsinki
 Restaurant: Huacheng, address: Mannerheimintie 20, 00100 Helsinki
-Restaurant: Hugo's Room, address: Iso Roobertinkatu 3, Helsinki
-Restaurant: Hulahula, address: Pursimiehenkatu 14 C 62, Helsinki
 Restaurant: Humallahden Venekerho Hvk R.Y., address: Rajasaarenpenger 6, 00250 Helsinki
 Restaurant: Huone, address: Länsisatamankatu 16, 00180 Helsinki
 Restaurant: Huvilan kahvila, address: Mannerheimintie 13 b, 00100 Helsinki
 Restaurant: Huvipursi, address: Pursimiehenkatu 27, Helsinki
 Restaurant: Hádanka, address: Mannerheimintie 104, Helsinki
 Restaurant: I Love Food, address: Urhokekkosenkatu 1, alakerta, 00100 Helsinki
-Restaurant: Ice Bellows, address: Ruusulankatu 14, Helsinki
 Restaurant: Ichiban Sushi Aikatalo, address: Mikonkatu 8, 00100 Helsinki
 Restaurant: Ichiban Sushi Kamppi, address: Kampin kauppakeskus, Urho Kekkosen katu 1, 00100 Helsinki
 Restaurant: Idän Piste, address: Turunlinnantie 14, Helsinki
@@ -816,7 +784,6 @@ Restaurant: Inefa, address: Kolmas Linja 11 B, Helsinki
 Restaurant: Inferno Bar & Nightclub, address: Annankatu 10, Helsinki
 Restaurant: Inter Pizza Cafe Helsinki, address: Hämeentie 81-83, HELSINKI
 Restaurant: Inter Pizza Malminkartano, address: Luutnantinaukio 5, 00410 Helsinki
-Restaurant: Internationaali Säätö, address: Museokatu 44 A 36, Helsinki
 Restaurant: Interpizza Hämeentie, address: Hämeentie 81, 00550 Helsinki
 Restaurant: Interprod Oy Ab, address: Ratavartijankatu 2-4, Helsinki
 Restaurant: Iskelmäkesä, address: Mannerheimintie 22-24, Helsinki
@@ -919,9 +886,7 @@ Restaurant: Kaksi Kanaa, address: Kanavakatu 3, 00160 Helsinki
 Restaurant: Kalaravintolat Finland, address: Runeberginkatu 26, Helsinki
 Restaurant: Kalasataman Konttiaukio, address: Sompasaari, Helsinki
 Restaurant: Kalastajatorpan Tennisklubi, address: Kärkitie, 00330 Helsinki
-Restaurant: Kalevan Krouvi, address: Kalevankatu 51, Helsinki
 Restaurant: Kallen Konditoria, address: Aleksis Kiven katu 58, 00510 Helsinki
-Restaurant: Kalliohovi, address: Vaasankatu 17, Helsinki
 Restaurant: Kallion B12, address: Vaasankatu 12, Helsinki
 Restaurant: Kallion B12 Cafe & Bar, address: Vaasankatu 12, HELSINKI
 Restaurant: Kallion Bar 12, address: Vaasankatu 12, Helsinki
@@ -953,7 +918,6 @@ Restaurant: Kapinakokki, address: Nokiantie 2-4, 00510 Helsinki
 Restaurant: Kappeli, address: Eteläesplanadi 1, 00130 Helsinki
 Restaurant: Kapsäkki Osuuskunta, address: Ensilinja 6, Helsinki
 Restaurant: Kapteenin Kajuutta, address: Koulutanhua 6, Helsinki
-Restaurant: Kara-Tuonti J Poikolainen, address: Eteläinen Hesperiankatu 22, Helsinki
 Restaurant: Karaoke Bar Anna K, address: Annankatu 23, HELSINKI
 Restaurant: Karaoke Bar Pataässä, address: Snellmaninkatu 17, HELSINKI
 Restaurant: Karaoke Bar Populus, address: Aleksis Kiven Katu 22, Helsinki
@@ -980,7 +944,6 @@ Restaurant: Katiska, address: Hakaniemen kauppahalli 1, 00530 Helsinki
 Restaurant: Katri Antell - Paciuksenkatu 21, address: Paciuksenkatu 21, 00270 Helsinki
 Restaurant: Kattohaikara, address: Työpajankatu 10 A, 00580 Helsinki
 Restaurant: Katukeittiö, address: Kontulan Ostoskeskus, 00940 Helsinki
-Restaurant: Kauneushoitola Sunrise, address: Itainen Teatterikuja 5 B 19, Helsinki
 Restaurant: Kaunis Kampela, address: Lauttasaarentie 10, HELSINKI
 Restaurant: Kauppahallin Super Kebab, address: Eteläranta 1 Vanha Kauppahalli 93-95, 00130 Helsinki
 Restaurant: Kawa Cafe, address: Fredrikinkatu 58, 00100 Helsinki
@@ -1007,7 +970,6 @@ Restaurant: Kim's Tapas, address: Kasarmikatu 4, 00140 Helsinki
 Restaurant: Kimene Kebab, address: Itäkatu 1-5 (Kauppakeskus Itäkeskus, Hansasilta), 00930 Helsinki
 Restaurant: Kin Sushi, address: Lönnrotinkatu 2, 00100 Helsinki
 Restaurant: King Kebab, address: Mäkelänkatu 31, 00550 Helsinki
-Restaurant: King Of Sound, address: Mechelininkatu 2 B 48, Helsinki
 Restaurant: Kino Andorra & Dubrovnik, address: Eerikinkatu 11, Helsinki
 Restaurant: Kioski-kahvio, address: Hämeentie 85, 00550 Helsinki
 Restaurant: Kippo Iso Roba, address: Iso Roobertinkatu 7, 00120 Helsinki
@@ -1054,7 +1016,6 @@ Restaurant: Korjaamon Baari, address: Töölönkatu 51 A-B, HELSINKI
 Restaurant: Korjaamon baari & keittiö, address: Töölönkatu 51 B, 00250 Helsinki
 Restaurant: Korjaamon kahvila, address: Töölönkatu 51 A, 00250 Helsinki
 Restaurant: Korjaamon vintti, address: Töölönkatu 51 A, 0025 Helsinki
-Restaurant: Korkkula Senja Sinikka, address: Eino Leinon Katu 12 E 71, Helsinki
 Restaurant: Korphai, address: Kolmas linja 36, 00530 Helsinki
 Restaurant: Kortteliravintola Lungi, address: Korkeavuorenkatu 2, HELSINKI
 Restaurant: Koskenranta, address: Katariina Saksilaisenkatu 9, 00560 Helsinki
@@ -1088,7 +1049,6 @@ Restaurant: Kuja, address: Hakaniemenkatu 7, 00530 Helsinki
 Restaurant: Kuja Bar & Bistro, address: Hakaniemenkatu 7, 00530 Helsinki
 Restaurant: Kujis, address: Lauttasaarentie 32, Helsinki
 Restaurant: Kujis Pub, address: Lauttasaarentie 32, 00200 Helsinki
-Restaurant: Kullas & Company Ay, address: Kaarlenkatu 3-5, Helsinki
 Restaurant: Kulmapotku, address: Roihuvuorentie 28, 00820 Helsinki
 Restaurant: Kulosaaren Casino, address: Hopeasalmenpolku 1, 00570 Helsinki
 Restaurant: Kulta Feeniks Ravintola, address: Laippatie 1, 00880 Helsinki
@@ -1099,7 +1059,6 @@ Restaurant: Kulttuuriosuuskunta Kick!, address: Päivärinnankatu 7 B 9, Helsink
 Restaurant: Kulttuuritalo, address: Sturenkatu 4, Helsinki
 Restaurant: Kumpulan kasvitieteellisen puutarhan kahvio, address: Jyrängöntie 2, 00550 Helsinki
 Restaurant: Kuningatar Saba Queen Sheba, address: Mechelininkatu 8, 00100 Helsinki
-Restaurant: Kuokkanen H, address: Itäinen Teatterikuja 5 B, Helsinki
 Restaurant: Kuparikulma, address: Kuparitie 1, Helsinki
 Restaurant: Kuparikulma Karaoke Bar, address: Kuparitie 1, HELSINKI
 Restaurant: Kuparilyhty, address: Svinhufvudintie 1, 00570 Helsinki
@@ -1130,15 +1089,12 @@ Restaurant: La Morena, address: Niemenmäentie 2 m 5, 00350 Helsinki
 Restaurant: La Scala, address: Aurinkoranta 8, Vuosaari, 00990 Helsinki
 Restaurant: La Torrefazione, address: Aleksanterinkatu 50 B, 00100 Helsinki
 Restaurant: Lady Moon, address: Kaivokatu 12, Helsinki
-Restaurant: Laiska Karhu, address: Mechelininkatu 25, Helsinki
 Restaurant: Lali Gurans (Lounas- ja Tilausravintola), address: Vanha Talvitie 2, 00580 Helsinki
 Restaurant: Lankarulla, address: Koroistentie 10, 00280 Helsinki
 Restaurant: Lappi Ravintola, address: Annankatu 22, 00100 Helsinki
 Restaurant: Lasipalatsin Kattoterassi, address: Mannerheimintie 22-24, Helsinki
-Restaurant: Lasse Väyrynen, address: Itämerenkatu 8A 14, Helsinki
 Restaurant: Lassilan Herkku Pizza, address: Kuparitie 1, 00440 Helsinki
 Restaurant: Lassilan Pizza House, address: Kaupintie 11, 00440 Helsinki
-Restaurant: Last Man Standing, address: Rautalammintie 5 E 54, Helsinki
 Restaurant: Lastu, address: Mannerheimintie 46, 00260 Helsinki
 Restaurant: Latva, address: Korkeavuorenkatu 25, 00130 Helsinki
 Restaurant: Laugh Riot, address: Tekniikantie 21 D 201, Helsinki
@@ -1165,7 +1121,6 @@ Restaurant: Letku, address: Untamontie 3 B 14, Helsinki
 Restaurant: Liberty or Death, address: Mäkelänkatu 2 C c/o Boutique Bars Oy, HELSINKI
 Restaurant: LiesiKiesi, address: Seuraavan kerran Street Helsinki tapahtumassa., 00170 Helsinki
 Restaurant: Lihapullabaari, address: Tivolikuja 1, 00510 Helsinki
-Restaurant: Liisa Huima, address: Nilsiänkatu 10, Helsinki
 Restaurant: Lilin Herkku Cafe, address: Vilhonvuorenkatu 7-9, 00500 Helsinki
 Restaurant: Line Cafe, address: Toinen Linja 3, 00530 Helsinki
 Restaurant: Linjurin Grilli, address: Linja-autoasema, 00100 Helsinki
@@ -1211,7 +1166,6 @@ Restaurant: Luomo, address: Katariinankatu 1, 00170 Helsinki
 Restaurant: Lyon, address: Mannerheimintie 56, 00260 Helsinki
 Restaurant: Lähiöteatteri, address: Myllypurontie 1, Helsinki
 Restaurant: Lännen Kulta, address: Kilpakuja 1, Vantaa
-Restaurant: Löytöhinta, address: Runeberginkatu 46, Helsinki
 Restaurant: M-Grilli, address: Pallaksentie 2, 00970 Helsinki
 Restaurant: M/S Baltic Princess, Buffet Tallink, address: Länsiterminaali L4, Tyynenmerenkatu 8, 00220 Helsinki
 Restaurant: M/S Doris, IHA-Lines Oy Helsinki Cruises, address: Kolera-allas 2, 00130 Helsinki
@@ -1275,7 +1229,6 @@ Restaurant: Marski, address: Mannerheimintie 10, Helsinki
 Restaurant: Marski Bar & Restaurant, address: Mannerheimintie 10, 00100 Helsinki
 Restaurant: Martina, address: Itämerenkatu 21, 00180 Helsinki
 Restaurant: Martina Hämeentie 35, address: Hämeentie 35, 00500 Helsinki
-Restaurant: Matti Rämö, address: Läntinen Brahankatu 10 A 32, Helsinki
 Restaurant: Mattila & Solomon, address: Radiokatu 8 A 7, Helsinki
 Restaurant: Mattlar Mikko Tmi, address: Otavantie 14 B 24, Helsinki
 Restaurant: Mattolaituri, address: Ehrenströmintie 3 A, 00140 Helsinki
@@ -1319,7 +1272,6 @@ Restaurant: Mesikeidas, address: Haapaniemenkatu 3, 00530 Helsinki
 Restaurant: Messenius, address: Messeniuksenkatu 7, 00250 Helsinki
 Restaurant: Mestarikilta, address: Rahakamarinportti 3 B, 00240 Helsinki
 Restaurant: Mestaritalli, address: Merikannontie 2, Toivo Kuulan Puisto, 00260 Helsinki
-Restaurant: Metka, address: Bulevardi 29, Helsinki
 Restaurant: Metro Fast Food, address: Hämeentie 6 B, Helsinki
 Restaurant: Metro Fast Food (Metro kebab), address: Hämeentie 6 B L1, 00530 Helsinki
 Restaurant: Metsälän Pizzeria Radio FM, address: Läkkisepäntie 6, 00620 Helsinki
@@ -1330,7 +1282,6 @@ Restaurant: michelle grill and bar, address: Mikonkatu 4, 00100, Helsinki
 Restaurant: Mikon Kiska, address: Riihipellontie 1, 00390 Helsinki
 Restaurant: Mikura Sushi, address: Viipurinkatu 1 C, 00510 Helsinki
 Restaurant: Mila Pentti, address: Bulevardi 15D 50, Helsinki
-Restaurant: Milenka, address: Haapaniemenkatu 3-5, Helsinki
 Restaurant: Mille Mozzarelle, address: Pursimiehenkatu 7a, 00150 Helsinki
 Restaurant: Mille Sorrisi, address: Erätie 3, 00730 Helsinki
 Restaurant: Milli Miglia, address: Kalevankatu 36, HELSINKI
@@ -1340,7 +1291,6 @@ Restaurant: Ming Plaza, address: Pulttitie 20 A, 00880 Helsinki
 Restaurant: Mini-Bar Pisa, address: Merikasarminkatu 7 E, Helsinki
 Restaurant: Minttu, address: Ilkantie 19, 00400 Helsinki
 Restaurant: Minuuttibaari, address: Rautatieasema, HELSINKI
-Restaurant: miss Saana, address: Punavuorenkatu 7 C 64, Helsinki
 Restaurant: Miyako, address: Iso Roobertinkatu 11, 00120 Helsinki
 Restaurant: Mmaku, address: Mannerheimintie 25, 00250 Helsinki
 Restaurant: Moko Market & Café Sörnäinen, address: Vilhonvuorenkatu 11, 00500 Helsinki
@@ -1357,7 +1307,6 @@ Restaurant: Motellet, address: Annankatu 10, 00120 Helsinki
 Restaurant: Mount Everest Nokka, address: Luotsikatu 12, 00160 Helsinki
 Restaurant: Mountain, address: Nordenskiöldinkatu 8, 00250 Helsinki
 Restaurant: Movements Beauty Company, address: Välskärinkatu 5 A 27, Helsinki
-Restaurant: Moving Arts Helsinki, address: Bulevardi 23-27, Helsinki
 Restaurant: MO´DE, address: Viipurinkatu 18, 00510 Helsinki
 Restaurant: Mr. Don, address: Runeberginkatu 28, 00100 Helsinki
 Restaurant: Mr. Hugo Restaurant Bar, address: Kylänvanhimmantie 29, Helsinki
@@ -1368,18 +1317,15 @@ Restaurant: Mukesh, address: Sturenkatu 28, 00510 Helsinki
 Restaurant: Mummotunneli, address: Aleksanterinkatu 46, Helsinki
 Restaurant: Munkkiniemen pizzeria kebab, address: Huopalahdentie 7, 00330 Helsinki
 Restaurant: Musarzi, address: Laurinniityntie 5 A 6, Helsinki
-Restaurant: Music Bar Boot Hill, address: Lönnrotinkatu 25, Helsinki
 Restaurant: Musiikki Jussi Tuurna, address: Kyläkunnantie 74 As 2, Helsinki
 Restaurant: Musiikkipalvelu Hosio, address: Vaunukalliontie 9, Vantaa
 Restaurant: Musiikkitalo, address: Mannerheimintie 13 A, Helsinki
 Restaurant: Musiikkitalon Ravintolat, address: Mannerheimintie 13a A, 00100 Helsinki
 Restaurant: Musiikkiteatteri Kapsäkki, address: Hämeentie 68, Helsinki
 Restaurant: Musiikkiteatteri-Ilmaisun Koulu Musti, address: Mariankatu 24 K, Helsinki
-Restaurant: Musiikkiteatteriyhdistys Kapsäkki, address: Mäkelänkatu 28 D 57, Helsinki
 Restaurant: Musta Härkä, address: Mäkelänkatu 52, 00510 Helsinki
 Restaurant: Musta Kissa, address: Toinen linja 15, Helsinki
 Restaurant: Mutteri, address: Lauttasaarentie 2, 00200 Helsinki
-Restaurant: My Way, address: Mäkelänkatu 32, Helsinki
 Restaurant: My Way Bar, address: Mäkelänkatu 32, HELSINKI
 Restaurant: Myyrmäen Jääkahvio, address: Raappavuorentie 2, Vantaa
 Restaurant: Mäkikupla, address: Torkkelinkatu 2 B, Helsinki
@@ -1388,7 +1334,6 @@ Restaurant: Mäkilä Jarmo Esa Antero, address: Myllärintie 42 B, Helsinki
 Restaurant: Möttönen Teemu Juhana, address: Helsinginkatu 2 A C 86, Helsinki
 Restaurant: Naamiointi Eija Hakkarainen, address: Kyyhkysmäki 2A 8, Espoo
 Restaurant: Naapuriravintola Jyvänen, address: Kiviparintie 2, 00920 Helsinki
-Restaurant: Nalle Pub, address: Kaarlenkatu 3-5, Helsinki
 Restaurant: Namaskaar, address: Mannerheimintie 100, 00250 Helsinki
 Restaurant: Namaskaar Express, address: Vuorikatu 14, Helsinki
 Restaurant: Namaskaar Express Fenniakortteli, address: Vuorikatu 14, 00100 Helsinki
@@ -1412,9 +1357,7 @@ Restaurant: Neste Oil Motorest Eläintarha, address: Nordenskiöldinkatu 22, 002
 Restaurant: New Bamboo Center, address: Annankatu 29, 00100 Helsinki
 Restaurant: Night People Oy, address: Iso Puistotie 1, HELSINKI
 Restaurant: Niiranen Tmi, address: Meri-Rastilan tie 21 F 68, Helsinki
-Restaurant: Nikolai Bar & Kitchen, address: Temppelikatu 23, Helsinki
 Restaurant: Nikolai II, address: Kolera-allas, 00130 Helsinki
-Restaurant: Nilam Tmi, address: Hakaniemenranta 28B 42, Helsinki
 Restaurant: Nirmal, address: Runeberginkatu 60, 00260 Helsinki
 Restaurant: Nissinen Osmo, address: Alppikatu 15 B 50, Helsinki
 Restaurant: NJK, address: Valkosaari 1, 00140 Helsinki
@@ -1441,7 +1384,6 @@ Restaurant: Nyman Niki, address: Castreninkatu 28 B 46, Helsinki
 Restaurant: Nyyrikki, address: pohjolankatu 2, 00610 Helsinki
 Restaurant: Näkövammaiset lapset ry, Synskadade barn rf, address: Hietakummuntie 18, Helsinki
 Restaurant: Nätti, address: Hakaniemen kauppahalli 14-20, 00530 Helsinki
-Restaurant: Nötö Bär, address: Korppaanmäentie 30A 10, Helsinki
 Restaurant: O' Gelis Bar, address: Torivoudintie 1, Helsinki
 Restaurant: O'Gelis, address: Torivoudintie 1, 00640 Helsinki
 Restaurant: O'Gelis Bar, address: Torivoudintie 1, HELSINKI
@@ -1497,13 +1439,11 @@ Restaurant: Osk Sydäntila, address: Kaivonkatsojantie 8A 3, Helsinki
 Restaurant: oulunkylän kebab pizzeria, address: siltavoudintie 4L7, 00640 Helsinki
 Restaurant: Oy Addis Ab, address: Korkeavuorenkatu 2, Helsinki
 Restaurant: Oy Moek Trading, address: Mannerheimintie 12A 1, Helsinki
-Restaurant: Oy Ravintola Villa Rosa Ab, address: Albertinkatu 9, Helsinki
 Restaurant: Oyster Bar, address: Lönnrotinkatu 34, 00180 Helsinki
 Restaurant: P & M Design Ab, address: Kalliolinnantie 12 F, Helsinki
 Restaurant: Paahtimo- ja suklaakauppa caffi, address: Mannerheimintie 22-24, 00100 Helsinki
 Restaurant: Paasinkellari, address: Paasivuorenkatu 5, 00530 Helsinki
 Restaurant: Paasiravintola, address: Paasivuorenkatu 5 A, 00530 Helsinki
-Restaurant: Paasonen H. Tmi, address: Meritullinkatu 17 A 5, Helsinki
 Restaurant: Pabla Ky, address: Mannerheimintie 8, Helsinki
 Restaurant: Pacifico, address: Helsinginkatu 15, 00500 Helsinki
 Restaurant: Painobaari, address: Postikuja 2, 00100 Helsinki
@@ -1521,7 +1461,6 @@ Restaurant: Papa Albert Ristorante & Bar, address: Albertinkatu 30, HELSINKI
 Restaurant: Pappas Pizza, address: Teollisuuskatu 32, 00510 Helsinki
 Restaurant: Paris Pub, address: Keinulaudankuja 4, HELSINKI
 Restaurant: Park Pub, address: Puistolantori 1, 00760 Helsinki
-Restaurant: Parnell's, address: Cumulus Olympia, Helsinki
 Restaurant: Parnell's Olympia, address: Läntinen Brahenkatu 2, HELSINKI
 Restaurant: Parrilla Española, address: Eerikinkatu 4, 00100 Helsinki
 Restaurant: Parturi-Kampaamo Hiuskarva, address: Vaasankatu 20, Helsinki
@@ -1593,7 +1532,6 @@ Restaurant: Pikkulintu, address: Klaavuntie 11, Helsinki
 Restaurant: Pineda Anuliina, address: Jaalaranta 6A 3, Helsinki
 Restaurant: Pinkan Lounas, address: Teerisuonkuja 1, 00700 Helsinki
 Restaurant: Pirhonen Tapio Tmi, address: Paatsamaantie 3 B 11, Helsinki
-Restaurant: Pitoporras Ky, address: Hämeentie 3-5 A 4, Helsinki
 Restaurant: Pitsku City, address: Konalantie 2, Helsinki
 Restaurant: Pitäjänmäen Pizzapalvelu, address: Pitäjänmäentie 15, 00370 Helsinki
 Restaurant: Pivnice Hostina, address: Annankatu 27, 00100 Helsinki
@@ -1691,7 +1629,6 @@ Restaurant: Prikthai, address: Mannerheimintie 64, 00260 Helsinki
 Restaurant: Primario Productions, address: Merisotilaankatu 1 B 13, Helsinki
 Restaurant: Prithvi Planet, address: Westendintie 99-101, Espoo
 Restaurant: PRKL Club, address: Kaisaniemenkatu 4, HELSINKI
-Restaurant: Prostyler Production, address: Liisankatu 7 B 41, Helsinki
 Restaurant: Pub & Music club Tillikka, address: Latokartanontie 5, HELSINKI
 Restaurant: Pub 94, address: Ostostie 4, 00940 Helsinki
 Restaurant: Pub 99, address: Mannerheimintie 58, HELSINKI
@@ -1714,7 +1651,6 @@ Restaurant: Pub Kontula, address: Keinulaudankuja 4 D 45, 00940 Helsinki
 Restaurant: Pub Magneetti, address: Mäkelänkatu 20 B, Helsinki
 Restaurant: Pub Magneetti Vallila, address: Mäkelänkatu 20 B, HELSINKI
 Restaurant: Pub Maria, address: Päivöläntie 24, HELSINKI
-Restaurant: Pub Marjanne, address: Asematie 1, Vantaa
 Restaurant: Pub Merikarhu, address: Ostostie 4, HELSINKI
 Restaurant: Pub Merimies, address: Merimiehenkatu 27, HELSINKI
 Restaurant: Pub Nellu, address: Ratapihantie 6, HELSINKI
@@ -1740,8 +1676,6 @@ Restaurant: Pulmu-baari, address: Fleminginkatu 13, HELSINKI
 Restaurant: Punainen Aurinko, address: Mäkelänkatu 45, 00550 Helsinki
 Restaurant: Punainen Omena, address: Malminkaari 13-19, 00700 Helsinki
 Restaurant: Punavuoren Ahven, address: Punavuorenkatu 12, HELSINKI
-Restaurant: Punavuoren Putiikki, address: Punavuorenkatu 1, Helsinki
-Restaurant: Punchline JS, address: Sallinkatu 2C 56, Helsinki
 Restaurant: Puotilan Pizza & Kebab, address: Rusthollarintie 2, 00910 Helsinki
 Restaurant: Puotin Krouvi, address: Kastelholmantie 2, HELSINKI
 Restaurant: Pure Bistro, address: Katariinankatu 1, 00170 Helsinki
@@ -2121,7 +2055,6 @@ Restaurant: Red Onion, address: Myyrmanni, Vantaa
 Restaurant: Reino Nordin, address: Jääkärinkatu 3 C 23, Helsinki
 Restaurant: Reissumies, address: Koulutanhua 6, 00840 Helsinki
 Restaurant: Reissumies Pub, address: Koulutanhua 6, HELSINKI
-Restaurant: Relandersgrund, address: Meritullintori, Pohjoisranta, Helsinki
 Restaurant: Relaxin, address: Helsinginkatu 13, Helsinki
 Restaurant: Relaxin Bar & Cafe, address: Helsinginkatu 13, HELSINKI
 Restaurant: Restaurang Prakticum, address: Jan-Magnus Janssonin Aukio 5, 00550 Helsinki
@@ -2133,7 +2066,6 @@ Restaurant: Restaurant Jufu Herttoniemi, address: Laivalahdenkatu 8, 00880 Helsi
 Restaurant: Restaurant Lime Tree, address: Sandelsinkatu 2, 00260 Helsinki
 Restaurant: Restaurant Maithai, address: Annankatu 31-33, 00100 Helsinki
 Restaurant: Restaurant Pörssi, address: Fabianinkatu 14, 00100 Helsinki
-Restaurant: Restel Ravintolat, address: Hämeentie 19, Helsinki
 Restaurant: Restel Ravintolat Oy / Helsingin Jäähalli, address: Nordenskiöldinkatu 11-13, HELSINKI
 Restaurant: Restless, address: Kirkkosalmentie 4 B 13, Helsinki
 Restaurant: Restroom, address: Tehtaankatu 23 A, Helsinki
@@ -2143,8 +2075,6 @@ Restaurant: Revontuli, address: Kajaaninlinnantie 4, 00900 Helsinki
 Restaurant: Rice Garden, address: Siltasaarenkatu 12, 00530 Helsinki
 Restaurant: Richard Lax, address: Vironkatu 8 C, Helsinki
 Restaurant: Ricoplaza Take Away, address: Asematunneli, Kompassitaso, 00100 Helsinki
-Restaurant: Riim Jelena, address: Iso Robertinkatu 38, Helsinki
-Restaurant: Riki Cafe-Bar Ky, address: Kasarmikatu 16, Helsinki
 Restaurant: Ristorante & Vinoteca Como Helsinki, address: Simonkatu 8, Forum 2krs, 00100 Helsinki
 Restaurant: Ristorante Centro, address: Tulisuontie 1, 00820 Helsinki
 Restaurant: Ristorante Dei Piselli, address: Hernesaarenkatu 17, 00150 Helsinki
@@ -2156,7 +2086,6 @@ Restaurant: Ristorante Monte Etna, address: Hämeentie 31, 00500 Helsinki
 Restaurant: Ristorante Pizzeria Villetta, address: Ruusulankatu 8, 00260 Helsinki
 Restaurant: Ristorante Supremo, address: Mannerheimintie 63, 00250 Helsinki
 Restaurant: Ristorante Zio Pepe, address: Lapinlahdenkatu 25, 00100 Helsinki
-Restaurant: Ritz, address: Eteläinen Hesperiankatu 22, Helsinki
 Restaurant: Rivoli, address: Albertinkatu 38, 00180 Helsinki
 Restaurant: Rixi-Baari, address: Isokaari 24, Helsinki
 Restaurant: RL Entertainment Avoin, address: Martinkyläntie 67, Vantaa
@@ -2207,7 +2136,6 @@ Restaurant: Rulla, address: Yrjönkatu 30, 00100 Helsinki
 Restaurant: Rumba-Akatemia, address: Hämeentie 130 E 8, Helsinki
 Restaurant: Runebergin Pizza Kebab, address: Runeberginkatu 50, 00260 Helsinki
 Restaurant: Ruoka-aika, address: Kirkonkyläntie 7, 00780 Helsinki
-Restaurant: Rutilus Musiikkimedia, address: Pursimiehenkatu 14 B 29, Helsinki
 Restaurant: Ryan Thai Vuorikatu, address: Vuorikatu 18 (2.kerros), 00100 Helsinki
 Restaurant: Rymy-Eetu, address: Erottajankatu 15-17, 00100 Helsinki
 Restaurant: Rytmi, address: Toinen linja 2, Helsinki
@@ -2216,7 +2144,6 @@ Restaurant: Saga Management, address: Sepontie 3 A 4, Espoo
 Restaurant: Sagun Nepal, address: Kontulankaari 1, 00940 Helsinki
 Restaurant: Sailor's, address: Laivalahdenkaari 29, 00810 Helsinki
 Restaurant: Saimojee, address: Rusthollarinkuja 1 F 51, Helsinki
-Restaurant: Saint Helsinki, address: Fredrikinkatu 42, Helsinki
 Restaurant: Saitajoki Juha Kullervo, address: Paanutie 10 I 66, Helsinki
 Restaurant: Sakura Ruoka, address: Hämeentie 64, 00500 Helsinki
 Restaurant: Sakura Sushi, address: Albertinkatu 12, 00150 Helsinki
@@ -2224,7 +2151,6 @@ Restaurant: Salaattibaari Freesi, address: Fenniapasaasi, 00100 Helsinki
 Restaurant: Salonen Heli Tuuli Maarit, address: Kyläkunnantie 20, Helsinki
 Restaurant: Salt & Pepper, address: Fredrikinkatu 30, 00120 Helsinki
 Restaurant: Salud Bar, address: Konalantie 2, HELSINKI
-Restaurant: Salut, address: Lapinlahdenkatu 29 A 1, Helsinki
 Restaurant: Salutorget, address: Pohjoisesplanadi 15, 00170 Helsinki
 Restaurant: Salve, address: Hietalahdenranta 11, 00180 Helsinki
 Restaurant: Sami Hernesaho, address: Johan Sederholmin Tie 2E 48, Helsinki
@@ -2245,7 +2171,6 @@ Restaurant: Sauna Vogue, address: Sturenkatu 27 A 5.krs, HELSINKI
 Restaurant: Savalan Pizza, address: Roihuvuorentie 28, 00820 Helsinki
 Restaurant: Savor Vallila, address: Elimäenkatu 25-27, 00510 Helsinki
 Restaurant: Savoy, address: Eteläesplanadi 14, 00130 Helsinki
-Restaurant: Sawyer Ari Robert Tmi, address: Fleminginkatu 25 A 2, Helsinki
 Restaurant: Scanburger, address: Urho Kekkosen katu 1, HELSINKI
 Restaurant: ScanBurger Kamppi, address: Urho Kekkosenkatu 1, 00100 Helsinki
 Restaurant: Scandic Grand Marina, address: Katajanokanlaituri 7, HELSINKI
@@ -2337,11 +2262,9 @@ Restaurant: Soi Soi, address: Vaasankatu 9, 00500 Helsinki
 Restaurant: Soittoruokala Roskapankki, address: Helsinginkatu 20, HELSINKI
 Restaurant: Sokerileipuri Suominen - Kahvila ja Kakkupuoti, address: Helenankatu 2, 00170 Helsinki
 Restaurant: Sokos Café, address: Mannerheimintie 9, 00100 Helsinki
-Restaurant: Sokos Hotel Vantaa, address: Hertaksentie 2, Vantaa
 Restaurant: Sole, address: Näyttelijäntie 14 C, 00400 Helsinki
 Restaurant: Soma, address: Vanttitie 3A 6, Helsinki
 Restaurant: Sommu Media, address: Koroistentie 11A 31, Helsinki
-Restaurant: Song & Winefans, address: Mechelininkatu 17 B 28, Helsinki
 Restaurant: Soppakanuuna Terho Oy, address: Kauppatori, 00130 Helsinki
 Restaurant: Soppakeittiö Hietalahti, address: Lönnrotinkatu 34, 00180 Helsinki
 Restaurant: Soppakeittiö Tapaste, address: Hakaniemen torikatu 4, 00500 Helsinki
@@ -2360,9 +2283,7 @@ Restaurant: Spa Capsule Finland, address: Ruonasalmentie 8 A, Helsinki
 Restaurant: Space Zoo, address: Selkämerenkatu 18 A 2, Helsinki
 Restaurant: Spaghetteria, address: Kauppakeskus Kaari, Kantelettarentie 1, 00420 Helsinki
 Restaurant: Spis, address: Kasarmikatu 26, 00130 Helsinki
-Restaurant: Sport Bar Töölö, address: Mannerheimintie 98, Helsinki
 Restaurant: Sport Hampuris, address: Varikkotie 4, 00900 Helsinki
-Restaurant: Sport Pub Chelsea, address: Töölönlahdenkatu 1, Helsinki
 Restaurant: Sportbar Töölö, address: Mannerheimintie 98, 00250 Helsinki
 Restaurant: Sportpub Chelsea, address: Töölönlahdenkatu 1, HELSINKI
 Restaurant: Sports Academy, address: Kaivokatu 8, HELSINKI
@@ -2418,15 +2339,11 @@ Restaurant: Summer Heat, address: Mannerheimintie 3, Helsinki
 Restaurant: Sumo, address: Eerikinkatu 20, 00100 Helsinki
 Restaurant: Sump House, address: Kivikonkaari 12, HELSINKI
 Restaurant: Sundmans Krog, address: Eteläranta 16, 00130 Helsinki
-Restaurant: Sundström Pia Lisa, address: Hakaniemen Torikatu 2C 19, Helsinki
 Restaurant: Suomen Allaslaite, address: Malmin Raitti 28, Helsinki
 Restaurant: Suomen bhangrayhdistys, address: Mehiläistie 16B 14, Helsinki
 Restaurant: Suomen Biljardimyynti, address: Korppaanmäentie 27, Helsinki
-Restaurant: Suomen Kansallisooppera, address: Helsinginkatu 58, Helsinki
 Restaurant: Suomen Lasten ja Nuorten Säätiö - Barn och Ungdomsstiftelsen i, address: Yrjönkatu 29A 3, Helsinki
 Restaurant: Suomen Stand Up Club, address: Tekniikantie 21 D, Helsinki
-Restaurant: Suomen Teatterit, address: Meritullinkatu 33, Helsinki
-Restaurant: Suomen Teatteritoimisto Teateragenturen i Finland Ab, address: Hietalahdenranta 5C 4, Helsinki
 Restaurant: Suomenlinnan Panimo, address: Suomenlinna C, HELSINKI
 Restaurant: Suomiravintola, address: opastinsilta 6, 00520 Helsinki
 Restaurant: Susan Grilli, address: Päivöläntie 40, 00730 Helsinki
@@ -2455,8 +2372,7 @@ Restaurant: T:mi Bar Cafe Haagan Helmi, address: Näyttelijäntie 14C, Helsinki
 Restaurant: Tablo Ateneum, address: Kaivokatu 2-4, 00100 Helsinki
 Restaurant: Taideosuuskunta Piellos, address: Tukholmankatu 19 A 2, Helsinki
 Restaurant: Taikalamppu, address: Torkkelinkatu 21, 00350 Helsinki
-Restaurant: Tainio Kai, address: Kruununhaankatu 3 B 17, Helsinki
-Restaurant: Taiteiden yö, address: 
+Restaurant: Taiteiden yö, address: null
 Restaurant: Taivis, address: Eteläinen Hesperiankatu 40, 00100 Helsinki
 Restaurant: Take Sushi, address: Salomonkatu 15, 00100 Helsinki
 Restaurant: Takos, address: Mäkelänkatu 30, Helsinki
@@ -2468,7 +2384,6 @@ Restaurant: Tamarin Lounge, address: Mannerheimintie 14 (Forum), 00100 Helsinki
 Restaurant: Tamminiemen jäätelökauppa, address: Tamminiementie 15, 00250 Helsinki
 Restaurant: Tandoor, address: Salomonkatu 19, Helsinki
 Restaurant: Tanskalainen Voileipä Oy, address: Cygnaeuksenkatu 5, 00100 Helsinki
-Restaurant: Tanssiteatteri Raatikko, address: Viertolankuja, Vantaa
 Restaurant: Taormina Pizza Kebab, address: Ostostie 4, 00940 Helsinki
 Restaurant: Tapahtumatalo Bank, address: Unioninkatu 20, 00130 Helsinki
 Restaurant: Tapanilan Starpizzza, address: Päivöläntie 24, 00730 Helsinki
@@ -2483,7 +2398,6 @@ Restaurant: Tavastia Club, address: Urho Kekkosenkatu 4-6, Finnland
 Restaurant: Tavastia Klubi, address: Urho Kekkosen katu 4-6, HELSINKI
 Restaurant: Taz, address: Aleksis Kiven katu 40, Helsinki
 Restaurant: TCB Styling, address: Merimiehenkatu 12A 6, Helsinki
-Restaurant: Teatteri Avoimet Ovet, address: Museokatu 18, Helsinki
 Restaurant: Teatteri Kultsa, address: Kaasutehtaankatu 1, Helsinki
 Restaurant: Teatteri Naamio Ja Höyhen, address: Korkeavuorenkatu 17, Helsinki
 Restaurant: Teatteri Vantaa Silkkisali, address: Tikkurilantie 44, Vantaa
@@ -2495,7 +2409,6 @@ Restaurant: Teboil Kaupintie, address: Kaupintie 19, 00440 Helsinki
 Restaurant: Teboil Myllypuro, address: Myllypurontie 8, 00920 Helsinki
 Restaurant: Teboil Pakila, address: Pakilantie 66, 00660 Helsinki
 Restaurant: TeeMaa Tea house, address: Mechelininkatu 15, 00100 Helsinki
-Restaurant: Teerenpeli, address: Olavinkatu 2, Helsinki
 Restaurant: Teerenpeli Helsinki, address: Olavinkatu 2, 00100 Helsinki
 Restaurant: Teeritupa, address: Pekanraitti 4, HELSINKI
 Restaurant: Telsim Telepizza, address: Pakilantie 11, 00660 Helsinki
@@ -2540,12 +2453,10 @@ Restaurant: Timeless Music, address: Aleksis Kiven Katu 74A 3, Helsinki
 Restaurant: Tina's Coffee & Takeaway, address: Kotkankatu 4, 00510 Helsinki
 Restaurant: Tintin Yögrilli, address: Helsinginkatu 21, 00510 Helsinki
 Restaurant: Tinurin Tupa, address: Tinurinkuja 4, Espoo
-Restaurant: Tivoli, address: Fredrikinkatu 51, Helsinki
 Restaurant: Tmi Erkki Naski, address: Ulappasaarentie 8C 49, Helsinki
 Restaurant: Tmi Kimmo Kohvakka, address: Laivurinkatu 1A 14, Turku
 Restaurant: Tmi Syr-Tiimi, address: Koulutanhua 6, Helsinki
 Restaurant: Tmi Tarja Lehti, address: Haapasaarentie 8A 83, Helsinki
-Restaurant: Tmi Tero Halvorsen, address: Museokatu 42B 46, Helsinki
 Restaurant: Tmi:Snack-Bar C17/Carita Hänninen, address: Santahamina, Helsinki
 Restaurant: Toca, address: Unioninkatu 18, 00130 Helsinki
 Restaurant: Toimitustalon Kahvio Kupoli, address: Radiokatu 5 B, 00240 Helsinki
@@ -2577,7 +2488,6 @@ Restaurant: Tsingdao, address: Kauppakartanontie 10, 00930 Helsinki
 Restaurant: Tsingdao Restaurant, address: Kauppakartanokatu 10, 00930 Helsinki
 Restaurant: Tuk Tuk, address: Vaasankatu 19, 00500 Helsinki
 Restaurant: Tukiainen Sirpa-Liisa Tellervo, address: Alkutie 24-26 A 7, Helsinki
-Restaurant: Tulisuudelma, address: Hertaksentie 2, Vantaa
 Restaurant: Tuomas-Grilli, address: Iso Roobertinkatu 9, 00120 Helsinki
 Restaurant: Tuotantotoimisto Blow Up That Gramophone, address: Pohjavedenportti 2 B 41, Helsinki
 Restaurant: Tuuma Toimittajaosuuskunta, address: Ratapihantie 13, Helsinki
@@ -2613,7 +2523,6 @@ Restaurant: Unicafe Valtiotiede, address: Unioninkatu 37, 00170 Helsinki
 Restaurant: Unicafe Viikuna, address: Agnes Sjöbergin katu 2, 00710 Helsinki
 Restaurant: UniCafe Ylioppilasaukio, address: Mannerheimintie 3 B, 00100 Helsinki
 Restaurant: Unioninkadun grilli, address: Unioninkatu / Pitkäsilta, 00170 Helsinki
-Restaurant: Universum, address: Perämiehenkatu 13, Helsinki
 Restaurant: Uppopulla, address: Mäkelänkatu 49, 00510 Helsinki
 Restaurant: Urbi & Orbi Tmi, address: Taimistontie 7 A 1, Helsinki
 Restaurant: Urheilutalon Keilakahvio, address: Helsinginkatu 25, 00510 Helsinki
@@ -2634,7 +2543,6 @@ Restaurant: Vastarannan Kiiski, address: Runeberginkatu 26, Helsinki
 Restaurant: Vaudeville Teatteri, address: Liinarinne 3 A, Vantaa
 Restaurant: Vauvauinti Kultakalat Ky, address: Pellervontie 39, Helsinki
 Restaurant: Vega, address: Kylänvanhimmantie 29, 00640 Helsinki
-Restaurant: Veli-Pekka Leskelä Tmi, address: Mechelininkatu 19 B 38, Helsinki
 Restaurant: Verde, address: Elielinaukio 5, 00100 Helsinki
 Restaurant: Verso, address: Aleksanterinkatu 9, Helsinki
 Restaurant: Vespa, address: Eteläesplanadi 22, 00130 Helsinki
@@ -2652,7 +2560,6 @@ Restaurant: Viinibaari Latva, address: Korkeavuorenkatu 25, HELSINKI
 Restaurant: Viisi Penniä, address: Mannerheimintie 55, 00250 Helsinki
 Restaurant: Viisipenniä, address: Mannerheimintie 55, Helsinki
 Restaurant: Vilhon Pub, address: Vilhonvuorenkatu 5, 00500 Helsinki
-Restaurant: Vilhunen Risto Vilho Olavi, address: Sepänrinne 2, Vantaa
 Restaurant: Viljami, address: Viljatie 4, 00720 Helsinki
 Restaurant: Villa Angelica, address: Tamminiementie 3, 00250 Helsinki
 Restaurant: Villa Solvik, address: Solvikinkatu 4, 00990 Helsinki
@@ -2662,7 +2569,6 @@ Restaurant: Villi Wäinö, address: Kalevankatu 4, Helsinki
 Restaurant: Villipuutarha, address: Kaarlenkatu 13, 00530 Helsinki
 Restaurant: Vin-Vin, address: Kalevankatu 6, 00100 Helsinki
 Restaurant: Vinha Tuotanto, address: Pihlajatie 30, Helsinki
-Restaurant: Vintermedia, address: Sammonkatu 12, Helsinki
 Restaurant: Vintti, address: Kauppamiehentie 1, Espoo
 Restaurant: Viola, address: Kaisaniemenranta 2, 00170 Helsinki
 Restaurant: Virgin Oil, address: Mannerheimintie 5, Helsinki
@@ -2676,7 +2582,6 @@ Restaurant: Vltava, address: Elielinaukio 2, 00100 Helsinki
 Restaurant: Voipojat, address: Veneentekijäntie 4, 00210 Helsinki
 Restaurant: Vuo Pizza & Kebab, address: Vuosaarentie 8, 00980 Helsinki
 Restaurant: Vuosaaren Kebab ja Pizza, address: Mustalahdentie 4, 00960 Helsinki
-Restaurant: Väentupa, address: Olavinkatu 1, Helsinki
 Restaurant: Walhalla, address: Suomenlinna A7, 00190 Helsinki
 Restaurant: Wall St. Bar, address: Ateneuminkuja 4, HELSINKI
 Restaurant: Wallilan kahvikellari, address: Mäkelänkatu 41, 00550 Helsinki
