@@ -27,6 +27,7 @@ public class ResultsCombiner {
         updateMap("eatFiRestaurants.ser", restaurantMap);
         updateMap("fonectaRestaurants.ser", restaurantMap);
         updateMap("yelp-restaurants.ser", restaurantMap);
+        updateMap("foursquare-restaurants.ser", restaurantMap);
 
         ArrayList<Restaurant> restaurantList = new ArrayList<>(restaurantMap.values());
         Collections.sort(restaurantList);

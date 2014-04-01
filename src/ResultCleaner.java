@@ -50,5 +50,6 @@ public class ResultCleaner {
         cleaner.clean("eatFiRestaurants.ser");
         cleaner.clean("fonectaRestaurants.ser");
         cleaner.clean("yelp-restaurants.ser");
+        cleaner.clean("foursquare-restaurants.ser");
     }
 }
