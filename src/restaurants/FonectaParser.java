@@ -32,10 +32,10 @@ public class FonectaParser {
 
         String filename = "fonectaRestaurants.txt";
         PrintWriter pw = new PrintWriter(new File(filename));
-        restaurantList.stream().forEach((restaurant) -> {
+        for (Restaurant restaurant : restaurantList) {
             pw.println(restaurant);
-        });
-    pw.close();
+        }
+        pw.close();
 
         String serFilename = "fonectaRestaurants.ser";
         new Serialiser().serialize(restaurantList, serFilename);

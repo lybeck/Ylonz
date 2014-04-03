@@ -124,7 +124,7 @@ public class FourSquare {
         double b = CoordinateHelpers.metersFromWGS84(start1, start2, start1, start2 + d2);
         int radius = (int) Math.round(.5 * Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2)));
 
-        Serialiser serialiser = new Serialiser();
+        Serialiser<ArrayList<Restaurant>> serialiser = new Serialiser();
         Set<Restaurant> set = new HashSet<>(serialiser.deserialize(filename));
         int newResults = 0;
 

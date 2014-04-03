@@ -27,9 +27,9 @@ public class EatFiParser {
 
         String filename = "eatFiRestaurants.txt";
         PrintWriter pw = new PrintWriter(new File(filename));
-        restaurantList.stream().forEach((restaurant) -> {
+        for (Restaurant restaurant : restaurantList) {
             pw.println(restaurant);
-        });
+        }
         pw.close();
 
         String serFilename = "eatFiRestaurants.ser";

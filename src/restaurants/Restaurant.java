@@ -30,7 +30,8 @@ public class Restaurant implements Comparable<Restaurant>, Serializable {
 
     @Override
     public String toString() {
-        return "Restaurant: " + name + ", address: " + address;
+        return "Restaurant:\n" + name + "\n" +
+               "Address:\n" + address;
     }
 
     @Override

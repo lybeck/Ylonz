@@ -15,11 +15,11 @@ import restaurants.Serialiser;
 public class ResultsCombiner {
 
     private void updateMap(String filename, HashMap<String, Restaurant> restaurantMap) throws IOException, ClassNotFoundException {
-        ArrayList<Restaurant> restaurantList = new Serialiser().deserialize(filename);
-        restaurantList.stream().forEach((restaurant) -> {
+        ArrayList<Restaurant> restaurantList = new Serialiser<ArrayList<Restaurant>>().deserialize(filename);
+        for (Restaurant restaurant : restaurantList) {
             String key = restaurant.getName().toLowerCase().trim().replaceAll("[^A-Za-z0-9 ]", "");
             restaurantMap.putIfAbsent(key, restaurant);
-        });
+        }
     }
 
     public void combine() throws IOException, ClassNotFoundException {
@@ -34,13 +34,13 @@ public class ResultsCombiner {
 
         String filename = "restaurants.txt";
         PrintWriter pw = new PrintWriter(new File(filename));
-        restaurantList.stream().forEach((restaurant) -> {
+        for (Restaurant restaurant : restaurantList) {
             pw.println(restaurant);
-        });
+        }
         pw.close();
 
         String serFilename = "restaurants.ser";
-        new Serialiser().serialize(restaurantList, serFilename);
+        new Serialiser<ArrayList<Restaurant>>().serialize(restaurantList, serFilename);
 
         System.out.println("Saved " + restaurantMap.size() + " entries.");
     }

@@ -19,7 +19,7 @@ public class RestaurantSearch {
     private final ArrayList<Restaurant> restaurantList;
 
     public RestaurantSearch() throws IOException, ClassNotFoundException {
-        restaurantList = new Serialiser().deserialize(filename);
+        restaurantList = new Serialiser<ArrayList<Restaurant>>().deserialize(filename);
     }
     
     public List<Restaurant> crossWordMatch(String s) {

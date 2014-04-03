@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  *
  * @author Lasse Lybeck
  */
-public class Serialiser {
+public class Serialiser<T extends Serializable> {
 
     public void serialize(Serializable s, String filename) throws FileNotFoundException, IOException {
         File file = new File(filename);
@@ -28,7 +28,7 @@ public class Serialiser {
         fileOutputStream.close();
     }
 
-    public <T extends Serializable> T deserialize(String filename) throws FileNotFoundException, IOException, ClassNotFoundException {
+    public T deserialize(String filename) throws FileNotFoundException, IOException, ClassNotFoundException {
         FileInputStream fileInputStream = new FileInputStream(filename);
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         T object = (T) objectInputStream.readObject();

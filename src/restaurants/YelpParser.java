@@ -28,9 +28,9 @@ public class YelpParser {
 
         String filename = "bars-yelp.txt";
         PrintWriter pw = new PrintWriter(new File(filename));
-        restaurantList.stream().forEach((restaurant) -> {
+        for (Restaurant restaurant : restaurantList) {
             pw.println(restaurant);
-        });
+        }
         pw.close();
 
         String serFilename = "bars-yelp.ser";

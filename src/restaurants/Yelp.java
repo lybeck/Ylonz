@@ -127,7 +127,7 @@ public class Yelp {
 
 //        System.out.println("radius = " + radius);
         Yelp yelp = new Yelp(consumerKey, consumerSecret, token, tokenSecret);
-        Serialiser serialiser = new Serialiser();
+        Serialiser<ArrayList<Restaurant>> serialiser = new Serialiser();
         Set<Restaurant> set = new HashSet<>(serialiser.deserialize("yelp-restaurants.ser"));
         int yelpSize = set.size();
         int newResults = 0;

@@ -11,7 +11,7 @@ import restaurants.Serialiser;
  */
 public class ResultCleaner {
 
-    private Serialiser serialiser;
+    private Serialiser<ArrayList<Restaurant>> serialiser;
 
     public ResultCleaner() {
         serialiser = new Serialiser();
@@ -19,6 +19,7 @@ public class ResultCleaner {
 
     public void clean(String filename) throws IOException, FileNotFoundException, ClassNotFoundException {
         ArrayList<Restaurant> list = new ArrayList<>();
+        serialiser.deserialize(filename);
         list.addAll(serialiser.deserialize(filename));
 
         int nullNames = 0;
